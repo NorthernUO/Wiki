@@ -2,7 +2,7 @@ name: Wiki Dosyalarini Birlestir
 
 on:
   push:
-    branches: [ "main", "master" ] # Sen değişiklik yaptığında tetiklenir
+    branches: [ "main", "master" ]
 
 jobs:
   build:
@@ -18,8 +18,8 @@ jobs:
           rm -f Wiki.txt
           # Repodaki tüm .md dosyalarını bulur ve aralarına başlık koyarak birleştirir
           find . -name '*.md' | while read f; do
-            echo -e "\n\n--- Dosya: $f ---\n" >> butun_wiki.txt
-            cat "$f" >> butun_wiki.txt
+            echo -e "\n\n--- Dosya: $f ---\n" >> Wiki.txt
+            cat "$f" >> Wiki.txt
           done
           
       - name: Yeni dosyayi repoya kaydet
