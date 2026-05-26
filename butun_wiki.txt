@@ -1,0 +1,4951 @@
+
+
+--- Dosya: ./giris/kurallar.md ---
+
+---
+icon: scale-balanced
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Kurallar
+
+{% hint style="warning" %}
+<mark style="color:$warning;">**Dikkat!**</mark> Oyuna, web sitesine, Forum veya Discord sunucusuna giriş yaptığınız andan itibaren aşağıdaki tüm kuralları kabul etmiş sayılırsınız.
+{% endhint %}
+
+### 1. Genel Hükümler
+
+Northern tamamen ücretsiz bir oyun sunucusudur. Sisteme katılım herhangi bir ücret gerektirmez ve oyuncuların kendi tercihleri doğrultusunda gerçekleşir.
+
+Sunucu yönetimi;
+
+* Oyun içeriğini belirleme,
+* Sistemi değiştirme,
+* Kuralları güncelleme,
+* Gerekli gördüğünde hizmeti sonlandırma
+
+haklarını saklı tutar.
+
+Kurallar tüm oyuncular için geçerlidir. Ancak istisnai durumlarda, oyun dengesini korumak adına yetkililer anlık karar alma hakkına sahiptir.
+
+***
+
+### 2. Yasal Sorumluluk ve Güvenlik
+
+Türkiye Cumhuriyeti yasalarına ve uluslararası anlaşmalara aykırı davranışlar kesinlikle yasaktır,
+
+* Tüm işlemlerinizde IP adresiniz kayıt altına alınır,
+* Gerekli durumlarda yetkili kurumlarla paylaşılabilir,
+* Sistem güvenliği ve topluluk düzeni önceliklidir,
+
+***
+
+### 3. Gizlilik ve Veri Politikası
+
+Northern platformlarında:
+
+* Çerez (cookie) teknolojileri kullanılmaktadır,
+* IP adresi gibi bazı veriler anonim olarak istatistiksel amaçlarla işlenir,
+* Kullanıcıya ait kişisel bilgiler üçüncü taraflarla paylaşılmaz,
+* Reklam veya ticari amaçlı kullanım yapılmaz.
+
+***
+
+### 4. Topluluk Davranış Kuralları
+
+Northern topluluğunda saygı esastır.
+
+Aşağıdaki davranışlar kesinlikle yasaktır:
+
+* Hakaret, küfür ve aşağılayıcı dil kullanımı,
+* Din, dil, ırk, cinsiyet ayrımcılığı,
+* Siyasi veya dini tartışma başlatmak ya da teşvik etmek,
+* Provokatif, kışkırtıcı veya topluluğu bölücü içerikler paylaşmak,
+* Yönetim veya sunucu hakkında küçük düşürücü söylemler.
+
+Toksik davranışlar açıkça yasaklanmamış olsa bile kabul edilmez.
+
+***
+
+### 5. Kullanıcı İçerikleri ve Paylaşımlar
+
+Forum, oyun ve Discord dahil tüm platformlarda:
+
+* Reklam yapmak veya referans link paylaşmak yasaktır,
+* Spam/flood mesaj gönderimi yasaktır,
+* Pornografik içerik paylaşımı yasaktır,
+* Warez veya illegal içerik paylaşımı yasaktır,
+* Başkalarına ait kişisel bilgileri ifşa etmek yasaktır.
+
+Paylaşılan tüm içeriklerden kullanıcı sorumludur. Ön onay sistemi bulunmamaktadır.
+
+***
+
+### 6. Hesap Güvenliği ve Sorumluluk
+
+* Hesap güvenliği tamamen kullanıcıya aittir,
+* Hesap paylaşımı önerilmez,
+* Şifrelerin düzenli değiştirilmesi tavsiye edilir,
+* Yetkililer hiçbir zaman şifrenizi istemez.
+
+Hesabınızı kullanan kişi tarafından yapılan ihlallerden siz sorumlusunuz.
+
+***
+
+### 7. Hesap ve Varlık Politikası
+
+* Hesap satışı, devri veya ticareti yasaktır,
+* Gerçek para (TL vb.) karşılığı oyun içi alışveriş yasaktır,
+* Tespit edilen hesaplar ve varlıklar silinir,
+* Kapatılan hesaplar geri açılmaz.
+
+***
+
+### 8. Oyun İçi Kurallar
+
+Oyun içi düzeni bozacak davranışlar yasaktır:
+
+* Flood yapmak,
+* Oyun alanlarını kapatmak veya geçişleri engellemek,
+* Ulaşılamaması gereken yerlere çıkmaya & ulaşmaya çalışmak,
+* Sistem dışı bahis veya kumar faaliyetleri yürütmek,
+* Etkinlik düzenini bozmak.
+
+#### **8.1 Etkinlikler**:
+
+* Durdurulamaz,
+* Geri iade yapılamaz,
+* Yetkili müdahalesiyle değiştirilemez.
+
+#### **8.2 Ev Kurulumu:**
+
+Northern sunucusunda ev yerleşimleri, oyun dengesi ve erişilebilirlik göz önünde bulundurularak belirli kurallara tabidir. Ev kurarken aşağıdaki şartlara uyulması zorunludur:
+
+**Yerleşim ve Mesafe Kuralları**
+
+* Evlerin ön kısımları arasında **minimum 4 kare**, yan kısımları arasında ise **en az 4 kare boşluk** bırakılmalıdır,
+* Kurulan yapının etrafında **en az 4 kare genişliğinde kesintisiz dolaşım alanı** bulunmalıdır,
+* Ev kurulacak zemin **düz ve yerleşime uygun** olmalıdır, **engebeli olmamalıdır**; eğimli veya bozuk araziler uygun değildir,
+* **Yol, patika veya geçiş alanları** üzerine ev kurulumu yapılamaz.
+
+**Büyük Yapılar (Kaleler)**
+
+* Kale tipi yapılar için daha geniş mesafe kuralları uygulanır:
+  * Ön ve arka tarafta **minimum 10 kare**
+  * Yanlar ve çapraz yönlerde **en az 7 kare** boşluk bırakılmalıdır.
+
+**Yasaklı Bölgeler**
+
+Evler, aşağıdaki alanlara **en az 1 ekran mesafede** kurulmalıdır:
+
+* Maden girişleri
+* Guard Zone ve Safe Zone alanları,
+* Mezarlık içleri ve/veya Girişleri,
+* Dungeon içleri ve/veya Girişleri,
+* Spawn bölgeleri, içleri ve/veya Girişleri,
+* Ankh noktaları, içleri ve/veya Girişleri,
+* İçerisinde Guard Zone veya teleport bulunan sabit yapılar.
+
+**Yönetim Yetkileri**
+
+* Northern yönetimi, uygun görmediği veya kurallara aykırı yerleşimleri **kaldırma hakkını saklı tutar**. Bu gibi durumlarda ev sahibine önceden bilgilendirme yapılır,
+* Hatalı yerleşimler hakkında yönetim **detaylı açıklama yapmak zorunda değildir**. Şüpheli gördüğünüz yapıları koordinatlarıyla birlikte bildirebilirsiniz,
+* Kurallara aykırı olduğu tespit edilen evler **maksimum 36 saat içinde kaldırılır,**
+* Sunucu düzenlemeleri kapsamında, gerekli görüldüğünde evlerin konumlarında **değişiklik yapılabilir.**
+
+
+
+***
+
+### 9. Bug ve Sistem Açıkları
+
+* Oyun hatalarını (bug) kötüye kullanmak kesinlikle yasaktır,
+* Bug kullanan hesaplar kapatılır,
+* Hata bildirimi yapan oyuncular ödüllendirilebilir.
+
+***
+
+### 10. Üçüncü Parti Yazılımlar
+
+Oyuna dış müdahale sağlayan tüm yazılımlar yasaktır.
+
+Örnek yasaklı araçlar:
+
+* EasyUO, UO Pilot,
+* AutoHotkey,
+* Mouse Clicker türevleri,
+* Cheat Engine,
+* Speed/FPS araçları,
+* Injection programları,
+* Özel yazılım veya Yapay Zeka tarafından üretilmiş oyuna direkt veya dolaylı etki eden programlar.
+
+Bu tür programları kullanan oyuncular:
+
+* Kalıcı olarak uzaklaştırılır,
+* Aynı cihazdan tekrar giriş yapamaz.
+
+***
+
+### 11. Destek Sistemi Kuralları
+
+Destek taleplerinde:
+
+* Aynı talebi tekrar tekrar göndermek yasaktır,
+* Talepler ortalama 15–45 dakika içinde yanıtlanır,
+* Açıklayıcı ve net olunması gerekir.
+
+Aşağıdaki talepler yanıtlanmaz:
+
+* “Gelir misin / bakar mısın” tarzı belirsiz çağrılar,
+* Ev, guild veya aile onay talepleri,
+* Kaybolan eşya geri yükleme talepleri.
+
+***
+
+### 12. Kayıp ve İade Politikası
+
+* Kaybolan eşyalar geri verilmez,
+* İnternet kesintisi veya oyun düşmesi sonucu oluşan kayıplar karşılanmaz,
+* Sadece sistem hatası veya yetkili hatası kanıtlanırsa istisna uygulanabilir.
+
+***
+
+### 13. Yetkili Hakları ve Soruşturmalar
+
+Northern yetkilileri:
+
+* Şüpheli davranışları inceleme,
+* Oyuncudan bilgi talep etme,
+* Gerekli yaptırımları uygulama.
+
+haklarına sahiptir.
+
+Oyuncular:
+
+* Soruşturmalara iş birliği yapmak zorundadır,
+* Bilgi vermekten kaçınmak suçun kabulü sayılabilir.
+
+***
+
+### 14. Üçüncü Taraf Platformlar
+
+Northern;
+
+* Twitch, YouTube, Discord vb. dış platform içeriklerinden sorumlu değildir,
+* Kullanıcılar bu içeriklerle kendi sorumluluklarıyla etkileşime girer.
+
+***
+
+### 15. Son Hükümler
+
+Bu kurallar:
+
+* Oyun içi, Forum ve Discord dahil tüm iletişim kanalları ve Northern'e ait platformlarda geçerlidir,
+* Tüm kullanıcıları kapsar,
+* Yönetim tarafından önceden bildirim yapılmaksızın güncellenebilir.
+
+
+--- Dosya: ./giris/s.s.s.md ---
+
+---
+description: Sunucu hakkında sık sorulan sorular ve cevapları
+icon: question
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# S.S.S
+
+{% hint style="warning" %}
+Ayrıca Sık Sorulan Sorular bölümünü incelemeden önce sunucuda nelerin <mark style="color:$warning;">**bulunmadığına**</mark> <mark style="color:$warning;"></mark> [sunucuda-olmayanlar.md](../oyun/baslangic/sunucuda-olmayanlar.md "mention") sayfasını incelemenizi öneririz.
+{% endhint %}
+
+<details open>
+
+<summary>Sunucu türü nedir?</summary>
+
+**Power Play** yarı **Role Play** oyun türü korunmaya çalışılmıştır.
+
+</details>
+
+<details open>
+
+<summary>Sunucu Skillcap Kaç X ?</summary>
+
+Skill toplamı en fazla **700.0** olabilir.
+
+</details>
+
+<details open>
+
+<summary>Sunucu Statcap Kaç X ?</summary>
+
+Stat toplamı en fazla **225** olabilir.
+
+</details>
+
+<details>
+
+<summary>Skill PH Oranı Nedir ?</summary>
+
+Bu oran beceriye ve beceri seviyenize göre değişse de genel olarak ph **zordur**.
+
+</details>
+
+<details>
+
+<summary>Stat PH Oranı Nedir ?</summary>
+
+Stat geliştirme tamamen üzerinde çalıştığınız beceri ile alakalıdır. Bir beceriden gain aldığınızda stat gain de alma ihtimaliniz vardır fakat statların kendi içinde ayrı bir gain sistemi vardır. Genel olarak Stat PH, Skillgain ile tetiklenir. Her skillin vereceği bir statgaini vardır. Örneğin combat skilleri genelde Str veya Dex gain verirken, Magic tarzı skiller Int verir.
+
+</details>
+
+<details>
+
+<summary>Skill Nerede Kasabiliriz?</summary>
+
+Kasacağınız skille göre değişir. İlgili skilli sürekli uygulayarak gain alabilirsiniz. Bazı skillerde düşük beceri seviyelerinde daha hızlı gain alabiliyorken bazı skillerde ise düşük beceri seviyelerinde zor, skill kastıkça kolaylaşmaktadır.
+
+Combat skilleri genelde training dummy, box veya pvm ile kasılabilir,
+
+Craft skilleri ilgili craft skilline ait eşyalar üreterek,
+
+Magery skilleri büyü uygulayarak,
+
+kasılabilmektedir.
+
+</details>
+
+<details>
+
+<summary>Stat Nerede Kasabiliriz?</summary>
+
+Kasacağınız stat türüne göre değişir. Örneğin STR veya DEX kasmak istiyorsanız belirli bir seviyeye kadar Training dummy, pvm veya box ile stat kasılabilir. Eğer Int geliştirmek istiyorsanız Magery, Evaluating Intel gibi becerileri kullanarak stat kasabilirsiniz. _Direkt stat veren herhangi bir stat stone/deed vs yoktur ve eklenmeyecektir._
+
+</details>
+
+<details>
+
+<summary>Sayfalı Runebook var mı ?</summary>
+
+Sunucuda sayfalı ekstra eşya ile mümkün olmaktadır. Bakınız: [runebook.md](../oyun/esyalar/cesitli/runebook.md "mention")
+
+</details>
+
+
+
+
+
+
+
+--- Dosya: ./giris/patches.md ---
+
+---
+description: Sunucuda yapılan tüm güncellemeler
+icon: code-branch
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Patches
+
+{% updates format="numeric" %}
+{% update date="2026-03-29" tags="add" %}
+## v.0.0.1
+
+* [ ] test içeriği
+* [ ] test içeriği
+{% endupdate %}
+{% endupdates %}
+
+
+
+--- Dosya: ./uygulamalar/client/baslangic/giris.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Giriş
+
+## Çalıştırma
+
+İndirme ve yükleme sonrasında eğer Kurulum yardımcısı üzerinden "Kısayolu masaüstüne oluştur" seçildiyse Masaüstüne ![](<../../../.gitbook/assets/image (39).png>) simgesi kısayolu gelecektir. Bu kısayol üzerinden Clienti çalıştırabilirsiniz. Eğer "Kısayolu masaüstüne oluştur" seçilmemişse Kurulum dizini olan "C:\UOSoft\Northern" konumundan ![](<../../../.gitbook/assets/image (40).png>)ile clienti çalıştırabilirsiniz.
+
+
+
+## Güncelleme Ekranı
+
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Güncelleme Ekranı (Launcher &#x26; Updater)</p></figcaption></figure>
+
+Bu ekran sadece güncellemeleri kontrol eder ve eğer güncelleme varsa güncellemeleri indirdikten sonra Giriş ekranı adımına otomatik olarak geçer.
+
+## Giriş Ekranı
+
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Giriş Ekranı</p></figcaption></figure>
+
+Bu ekranda daha önceden kayıt olduğunuz hesap adı ve şifrenizi giriş yaparak bir sonra ki sunucu seçme ekranına geçebilirsiniz.
+
+
+
+## Sunucu Seçim Ekranı
+
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+Bu Sunucu listesinde mevcutta "Northern" sunucusunu seçerek bir sonra ki "Karakter Oluşturma" veya "Karakter Seçim" ekranına geçebilirsiniz.
+
+Eğer hesabınızda daha önceden karakter oluşturulmamışsa bu ekrandan sonra direkt olarak "Karakter Oluşturma Ekranı" gidilir, Eğer daha önceden karakter oluşturulmuşsa "Karakter Seçim Ekranı" gidilir.
+
+
+
+## Karakter Oluşturma Ekranı
+
+#### Karakter Adı ve Görüntüsü
+
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption><p>Karakter Oluşturma: Karakter adı ve görüntüsü</p></figcaption></figure>
+
+#### Skill ve Stat Seçimi
+
+Burada Stat toplamı 80, Skill toplamı 100.0 olacak şekilde seçim yapılır.
+
+Minimum 2 Skill seçilmesi zorunludur.
+
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Karakter Oluşturma: Skill ve Stat Seçimi</p></figcaption></figure>
+
+#### Başlangıç Şehir Seçimi
+
+Burada karakterinizin oyuna başlayacağı şehir seçilir. Her şehrin kendine has hikayesi ve dokusu vardır. Her şehir bir karakter hikayesine hitab eder. Örneğin craft karakterlerin şehri Minoc olarak kabul edilirken, Magincia şehri büyücüler için idealdir.
+
+<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption><p>Karakter Oluşturma: Başlangıç Şehri Seçimi</p></figcaption></figure>
+
+## Oyuna Giriş: Merhaba Dünya
+
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
+Karakter Oluşturduktan sonra artık özgün ve macera dolu dünyaya ilk adımı atmış olacaksınız. Bundan sonrası sizlerin hayalgücü ile sınırlıdır.
+
+
+--- Dosya: ./uygulamalar/client/baslangic/indirme.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# İndirme
+
+## Client
+
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th><th data-type="files"></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">İndir (Exe)</td><td><a href="/broken/files/eqR74fqC75B6oQNegtK9">Broken link</a></td><td><strong>Boyut</strong>: 2,37 MB</td><td><strong>Tür</strong>: exe</td><td><strong>Sürüm</strong>: 3.0.0</td><td><strong>Son Değiştirilme</strong>: 26 ‎Şubat ‎2026 ‎Perşembe, ‏‎16:53:01</td><td data-object-fit="contain"><a href="../../../.gitbook/assets/exe.png">exe.png</a></td></tr><tr><td align="center">İndir (Zip)</td><td><a href="../../../.gitbook/assets/Northern_Setup.zip">Northern_Setup.zip</a></td><td><strong>Boyut</strong>: 1,49 MB</td><td><strong>Tür</strong>: zip</td><td><strong>Sürüm</strong>: 3.0.0</td><td><strong>Son Değiştirilme</strong>: 26 ‎Şubat ‎2026 ‎Perşembe, ‏‎16:53:01</td><td data-object-fit="contain"><a href="../../../.gitbook/assets/zip.png">zip.png</a></td></tr></tbody></table>
+
+## Araçlar
+
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-type="files"></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>GhostMouse</strong></td><td></td><td><strong>Boyut</strong>: - MB</td><td><strong>Tür</strong>: zip</td><td><strong>Sürüm</strong>: 2.0.0</td><td data-object-fit="contain"><a href="../../../.gitbook/assets/zip.png">zip.png</a></td></tr><tr><td align="center"><strong>MacroMan</strong></td><td></td><td><strong>Boyut</strong>: - MB</td><td><strong>Tür</strong>: zip</td><td><strong>Sürüm</strong>: 3.0.0</td><td data-object-fit="contain"><a href="../../../.gitbook/assets/zip.png">zip.png</a></td></tr></tbody></table>
+
+
+--- Dosya: ./uygulamalar/client/baslangic/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Başlangıç
+
+
+
+--- Dosya: ./uygulamalar/client/baslangic/yukleme.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Yükleme
+
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption><p>çalıştırınız.</p></figcaption></figure>
+
+Northern\_Setup.exe çalıştırdıktan sonra Kurulum Yardımcısı Ekranı açılacaktır.;
+
+
+
+1. ### Adım : Kurulum konumu (sabit, değiştirilemez.)
+
+<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
+Bu ekranda "Sonraki" seçeneği ile bir sonraki adıma geçiniz;
+
+
+
+2. ### Adım : Ek işlemler
+
+Bu ekranda çeşitli işlemler mevcuttur.
+
+* "Kısayolu masaüstüne oluştur" seçeneğini seçerseniz kurulumdan sonra program kısayolunu masaüstünüze oluşturur.
+* "Kurulum dizinini temizle" seçeneğini seçerseniz Mevcut dizin varsa bu dizini önce tamamen siler ve sonrasında tekrar kurulum yapar. Seçilmezse direkt üzerine kurmaya çalışır.
+
+<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
+Bu ekranda "Sonraki" seçeneği ile bir sonraki adıma geçiniz;
+
+3. ### Adım: Kurulmaya Hazır
+
+Bu ekran kurulumun hazır olduğununda bir özet ekrandır. Yapılacak işlemleri kısaca özetler.
+
+<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+Bu ekranda "Kur" seçeneği ile bir sonraki adıma geçiniz;
+
+4. ### Adım: Kurulum
+
+Bu ekran kurulumun hangi aşamada olduğunu, hangi dosyayı indirip kurduğunu gösterir.
+
+<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Eğer kurulum dosyaları zaten mevcut ise;
+
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+Bu ekranda "Sonraki çakışmalarda da bu işlem yapılsın" seçeneğini seçip "Var olan dosyanın üzerine yazılsın" seçeneğine gidiniz.
+
+
+
+5. ### Adım: Tamamlanma
+
+Kurulum tamamlandıktan sonra görülecek ekran bu şekildedir. "Başlat" seçeneği seçilip "Bitti" seçeneğine gidilirse direkt olarak Kurulum Yardımcısı kapanır ve Client başlatılır.
+
+<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
+
+
+--- Dosya: ./uygulamalar/client/hatalar.md ---
+
+---
+description: Yaygın karşılaşılan bildirilmiş hatalar ve açıklamaları
+---
+
+# Hatalar
+
+## Kütüphane
+
+Client çalışmak için bazı Windows resmi kürüphanelere ihtiyaç duyar ve bu kütüphanele Kurulum ile birlikte gelse de bazen Kurulum esnasında herhangi bir sebepten (kurulumun yarıda kesilmesi, internet kesintileri veya vpn/proxy vs kullanımı) kurulamayabilir. Bu durumda tekrar kurulum yapmak veya kütüphaneleri manuel el ile kurmak gerekebilir. Kütüphaneler kurulmamış veya eksik kurulmuşsa client ya hiç açılmaz veya oyun esnasında clientin kendi kendine kapanmasına (crash) sebep olabilir.
+
+## İşletim Sistemi
+
+
+
+### Windows
+
+Client genelde son güncel windows sürümlerinde daha düzgn çalışır. Windows 10 Home sürümünde çok basit bileşenler olduğu için genellikle çok fazla kurulum yapma ihtiyacı doğabilir.
+
+Clientin en sorunsuz çalıştışı Windows sürümleri;
+
+Windows 10 Pro 64 Bit son sürümler
+
+Windows 11 64 Bit son sürümler
+
+
+
+
+
+--- Dosya: ./uygulamalar/client/gereksinimler.md ---
+
+---
+description: Sistem Gereksinimleri
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Gereksinimler
+
+## Minimum Donanım Gereksinimleri
+
+<table data-header-hidden><thead><tr><th width="132"></th><th></th></tr></thead><tbody><tr><td>Grafik</td><td>Güncel sürücülere sahip özel ekran kartı (DirectX 11, OpenGL veya Vulkan'ı destekler)</td></tr><tr><td>İşlemci</td><td>Intel Core i3 veya eşdeğeri (daha iyi performans için daha üstü önerilir)</td></tr><tr><td>Bellek</td><td>8 GB</td></tr></tbody></table>
+
+## Önerilen Donanım Gereksinimleri
+
+<table data-header-hidden><thead><tr><th width="132"></th><th></th></tr></thead><tbody><tr><td>Grafik</td><td>Harici GPU (Intel entegre grafik kartı, yoğun alanlarda 20 FPS'nin altında performans gösterebilir)</td></tr><tr><td>İşlemci</td><td>Intel Core i5/i7 (veya eşdeğeri)</td></tr><tr><td>Bellek</td><td>16 GB</td></tr></tbody></table>
+
+## Önerilen Yazılım Gereksinimleri
+
+<table data-header-hidden><thead><tr><th width="178"></th><th></th></tr></thead><tbody><tr><td>Kütüphaneler</td><td><a href="https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.25/windowsdesktop-runtime-8.0.25-win-x64.exe">.NET 8</a> , <a href="https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/9.0.12/windowsdesktop-runtime-9.0.12-win-x64.exe">.NET 9</a> veya <a href="https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.5/windowsdesktop-runtime-10.0.5-win-x64.exe">.NET 10</a> (Sürüme göre değişir) ve <a href="https://aka.ms/vs/16/release/vc_redist.x64.exe">VC++ Redist</a></td></tr><tr><td>İşletim Sistemi</td><td>Windows 10 64 Bit</td></tr><tr><td></td><td></td></tr></tbody></table>
+
+> Performans Hususları\
+> İstemci hızlı olsa da, oyuncular eski dizüstü bilgisayar donanımlarının veya entegre grafik kartı (GMA) kullanan sistemlerin, özellikle yüksek trafiğe sahip özel sunucularda kare hızlarında sorun yaşayanabilir.
+
+
+--- Dosya: ./uygulamalar/client/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Client
+
+
+
+--- Dosya: ./uygulamalar/macroman.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Macroman
+
+
+
+--- Dosya: ./uygulamalar/ghost-mouse.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Ghost Mouse
+
+
+
+--- Dosya: ./oyun/world/trammel.md ---
+
+---
+icon: '1'
+---
+
+# Trammel
+
+
+
+--- Dosya: ./oyun/world/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# World
+
+
+
+--- Dosya: ./oyun/world/felucca/mabedler.md ---
+
+# Mabedler
+
+
+
+--- Dosya: ./oyun/world/felucca/mezarliklar/britain-graveyard.md ---
+
+# Britain Graveyard
+
+
+
+--- Dosya: ./oyun/world/felucca/mezarliklar/vesper-graveyard.md ---
+
+# Vesper Graveyard
+
+
+
+--- Dosya: ./oyun/world/felucca/mezarliklar/nujelm-graveyard.md ---
+
+# Nujel'm Graveyard
+
+
+
+--- Dosya: ./oyun/world/felucca/mezarliklar/cove-graveyard.md ---
+
+# Cove Graveyard
+
+
+
+--- Dosya: ./oyun/world/felucca/mezarliklar/yew-graveyard.md ---
+
+# Yew Graveyard
+
+
+
+--- Dosya: ./oyun/world/felucca/mezarliklar/README.md ---
+
+# Mezarlıklar
+
+
+
+--- Dosya: ./oyun/world/felucca/mezarliklar/moonglow-graveyard.md ---
+
+# Moonglow Graveyard
+
+
+
+--- Dosya: ./oyun/world/felucca/mezarliklar/jhelom-graveyard.md ---
+
+# Jhelom Graveyard
+
+
+
+--- Dosya: ./oyun/world/felucca/zindanlar.md ---
+
+# Zindanlar
+
+
+
+--- Dosya: ./oyun/world/felucca/sehirler/britain.md ---
+
+# Britain
+
+
+
+--- Dosya: ./oyun/world/felucca/sehirler/README.md ---
+
+# Şehirler
+
+
+
+--- Dosya: ./oyun/world/felucca/README.md ---
+
+---
+icon: '0'
+---
+
+# Felucca
+
+
+
+--- Dosya: ./oyun/beceriler/snooping.md ---
+
+# Snooping
+
+![Snooping](../../.gitbook/assets/imagesSnooping.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/herding.md ---
+
+# Herding
+
+![Herding](../../.gitbook/assets/imagesHerding.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/fencing.md ---
+
+# Fencing
+
+![Fencing](../../.gitbook/assets/imagesFencing.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/veterinary.md ---
+
+# Veterinary
+
+![Veterinary](../../.gitbook/assets/imagesVeterinary.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/camping.md ---
+
+# Camping
+
+![Camping](../../.gitbook/assets/imagesCamping.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/lockpicking.md ---
+
+# Lockpicking
+
+![Lockpicking](../../.gitbook/assets/imagesLockpicking.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/evaluatingintel.md ---
+
+# EvaluatingIntel
+
+![EvaluatingIntel](../../.gitbook/assets/imagesEvaluatingIntel.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/tactics.md ---
+
+# Tactics
+
+![Tactics](../../.gitbook/assets/imagesTactics.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/stonecraft.md ---
+
+# StoneCraft
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/stealth.md ---
+
+# Stealth
+
+![Stealth](../../.gitbook/assets/imagesStealth.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/necromancy.md ---
+
+# Necromancy
+
+![Necromancy](../../.gitbook/assets/imagesNecromancy.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/fishing.md ---
+
+# Fishing
+
+![Fishing](../../.gitbook/assets/imagesFishing.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/mysticism.md ---
+
+# Mysticism
+
+![Mysticism](../../.gitbook/assets/imagesMysticism.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/enticement.md ---
+
+# Enticement
+
+![Enticement](../../.gitbook/assets/imagesEnticement.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/swordsmanship.md ---
+
+# Swordsmanship
+
+![Swordsmanship](../../.gitbook/assets/imagesSwordsmanship.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/tasteid.md ---
+
+# TasteID
+
+![TasteID](../../.gitbook/assets/imagesTasteID.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/spiritspeak.md ---
+
+# SpiritSpeak
+
+![SpiritSpeak](../../.gitbook/assets/imagesSpiritSpeak.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/magery.md ---
+
+# Magery
+
+![Magery](../../.gitbook/assets/imagesMagery.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/focus.md ---
+
+# Focus
+
+![Focus](../../.gitbook/assets/imagesFocus.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/summary.md ---
+
+# SUMMARY
+
+## Beceriler
+
+* [Alchemy](alchemy.md)
+* [Anatomy](anatomy.md)
+* [AnimalLore](animallore.md)
+* [ItemID](itemid.md)
+* [ArmsLore](armslore.md)
+* [Parrying](parrying.md)
+* [Begging](begging.md)
+* [Blacksmithing](blacksmithing.md)
+* [Bowcraft](bowcraft.md)
+* [Peacemaking](peacemaking.md)
+* [Camping](camping.md)
+* [Carpentry](carpentry.md)
+* [Cartography](cartography.md)
+* [Cooking](cooking.md)
+* [DetectingHidden](detectinghidden.md)
+* [Enticement](enticement.md)
+* [EvaluatingIntel](evaluatingintel.md)
+* [Healing](healing.md)
+* [Fishing](fishing.md)
+* [Forensics](forensics.md)
+* [Herding](herding.md)
+* [Hiding](hiding.md)
+* [Provocation](provocation.md)
+* [Inscription](inscription.md)
+* [Lockpicking](lockpicking.md)
+* [Magery](magery.md)
+* [MagicResistance](magicresistance.md)
+* [Tactics](tactics.md)
+* [Snooping](snooping.md)
+* [Musicianship](musicianship.md)
+* [Poisoning](poisoning.md)
+* [Archery](archery.md)
+* [SpiritSpeak](spiritspeak.md)
+* [Stealing](stealing.md)
+* [Tailoring](tailoring.md)
+* [Taming](taming.md)
+* [TasteID](tasteid.md)
+* [Tinkering](tinkering.md)
+* [Tracking](tracking.md)
+* [Veterinary](veterinary.md)
+* [Swordsmanship](swordsmanship.md)
+* [Macefighting](macefighting.md)
+* [Fencing](fencing.md)
+* [Wrestling](wrestling.md)
+* [Lumberjacking](lumberjacking.md)
+* [Mining](mining.md)
+* [Meditation](meditation.md)
+* [Stealth](stealth.md)
+* [RemoveTrap](removetrap.md)
+* [Necromancy](necromancy.md)
+* [Focus](focus.md)
+* [Chivalry](chivalry.md)
+* [Bushido](bushido.md)
+* [Ninjitsu](ninjitsu.md)
+* [Spellweaving](spellweaving.md)
+* [Mysticism](mysticism.md)
+* [Imbuing](imbuing.md)
+* [Throwing](throwing.md)
+* [Glassblow](glassblow.md)
+* [StoneCraft](stonecraft.md)
+
+
+--- Dosya: ./oyun/beceriler/animallore.md ---
+
+# AnimalLore
+
+![AnimalLore](../../.gitbook/assets/imagesAnimalLore.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/forensics.md ---
+
+# Forensics
+
+![Forensics](../../.gitbook/assets/imagesForensics.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/tailoring.md ---
+
+# Tailoring
+
+![Tailoring](../../.gitbook/assets/imagesTailoring.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/hiding.md ---
+
+# Hiding
+
+![Hiding](../../.gitbook/assets/imagesHiding.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/archery.md ---
+
+# Archery
+
+![Archery](../../.gitbook/assets/imagesArchery.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/bushido.md ---
+
+# Bushido
+
+![Bushido](../../.gitbook/assets/imagesBushido.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/tinkering.md ---
+
+# Tinkering
+
+![Tinkering](../../.gitbook/assets/imagesTinkering.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/stealing.md ---
+
+# Stealing
+
+![Stealing](../../.gitbook/assets/imagesStealing.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/anatomy.md ---
+
+# Anatomy
+
+![Anatomy](../../.gitbook/assets/imagesAnatomy.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/blacksmithing.md ---
+
+# Blacksmithing
+
+![Blacksmithing](../../.gitbook/assets/imagesBlacksmithing.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/musicianship.md ---
+
+# Musicianship
+
+![Musicianship](../../.gitbook/assets/imagesMusicianship.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/ninjitsu.md ---
+
+# Ninjitsu
+
+![Ninjitsu](../../.gitbook/assets/imagesNinjitsu.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/magicresistance.md ---
+
+# MagicResistance
+
+![MagicResistance](../../.gitbook/assets/imagesMagicResistance.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/spellweaving.md ---
+
+# Spellweaving
+
+![Spellweaving](../../.gitbook/assets/imagesSpellweaving.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/mining.md ---
+
+# Mining
+
+![Mining](../../.gitbook/assets/imagesMining.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/removetrap.md ---
+
+# RemoveTrap
+
+![RemoveTrap](../../.gitbook/assets/imagesRemoveTrap.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/poisoning.md ---
+
+# Poisoning
+
+![Poisoning](../../.gitbook/assets/imagesPoisoning.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/meditation.md ---
+
+# Meditation
+
+![Meditation](../../.gitbook/assets/imagesMeditation.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/bowcraft.md ---
+
+# Bowcraft
+
+![Bowcraft](../../.gitbook/assets/imagesBowcraft.bmp)
+
+## Genel Bilgi
+
+
+
+--- Dosya: ./oyun/beceriler/healing.md ---
+
+# Healing
+
+![Healing](../../.gitbook/assets/imagesHealing.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/itemid.md ---
+
+# ItemID
+
+![ItemID](../../.gitbook/assets/imagesItemID.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/peacemaking.md ---
+
+# Peacemaking
+
+![Peacemaking](../../.gitbook/assets/imagesPeacemaking.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/armslore.md ---
+
+# ArmsLore
+
+![ArmsLore](../../.gitbook/assets/imagesArmsLore.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/taming.md ---
+
+# Taming
+
+![Taming](../../.gitbook/assets/imagesTaming.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/imbuing.md ---
+
+# Imbuing
+
+![Imbuing](../../.gitbook/assets/imagesImbuing.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/lumberjacking.md ---
+
+# Lumberjacking
+
+![Lumberjacking](../../.gitbook/assets/imagesLumberjacking.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/chivalry.md ---
+
+# Chivalry
+
+![Chivalry](../../.gitbook/assets/imagesChivalry.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/cooking.md ---
+
+# Cooking
+
+![Cooking](../../.gitbook/assets/imagesCooking.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/throwing.md ---
+
+# Throwing
+
+![Throwing](../../.gitbook/assets/imagesThrowing.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/begging.md ---
+
+# Begging
+
+![Begging](../../.gitbook/assets/imagesBegging.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/detectinghidden.md ---
+
+# DetectingHidden
+
+![DetectingHidden](../../.gitbook/assets/imagesDetectingHidden.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/tracking.md ---
+
+# Tracking
+
+![Tracking](../../.gitbook/assets/imagesTracking.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/glassblow.md ---
+
+# Glassblow
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/provocation.md ---
+
+# Provocation
+
+![Provocation](../../.gitbook/assets/imagesProvocation.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/wrestling.md ---
+
+# Wrestling
+
+![Wrestling](../../.gitbook/assets/imagesWrestling.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/cartography.md ---
+
+# Cartography
+
+![Cartography](../../.gitbook/assets/imagesCartography.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/alchemy.md ---
+
+# Alchemy
+
+![Alchemy](../../.gitbook/assets/imagesAlchemy.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/macefighting.md ---
+
+# Macefighting
+
+![Macefighting](../../.gitbook/assets/imagesMacefighting.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/carpentry.md ---
+
+# Carpentry
+
+![Carpentry](../../.gitbook/assets/imagesCarpentry.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/inscription.md ---
+
+# Inscription
+
+![Inscription](../../.gitbook/assets/imagesInscription.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/beceriler/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Beceriler
+
+
+
+--- Dosya: ./oyun/beceriler/parrying.md ---
+
+# Parrying
+
+![Parrying](../../.gitbook/assets/imagesParrying.bmp)
+
+## Genel Bilgi
+
+
+--- Dosya: ./oyun/baslangic/sunucuda-olmayanlar.md ---
+
+---
+description: Sunucuda hiç olmayan, eklenmeyecek sistemler.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Sunucuda Olmayanlar
+
+* <i class="fa-x" style="color:red;">:x:</i> Skill Dummy <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> WorldMap veya Numaralı Map <mark style="color:red;">**YOK**</mark>,&#x20;
+* <i class="fa-x" style="color:red;">:x:</i> Dungeon içinden dışarıya recall & gate veya dungeon içine recall & gate yapılabilir. Herhangi bir kısıtlama <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Spawnlarda ölü karakter bırakamama gibi bir kısıtlama <mark style="color:red;">**YOK**</mark> , isteyen herkes özgürce istediği yöntemlerle PVE yapabilir.
+* <i class="fa-x" style="color:red;">:x:</i> Arama ve mark yoluyla spawnlara ulaşılmaktadır. Random spawn sistemi <mark style="color:red;">**YOK**</mark>. Spawnların hepsi eskiden olduğu gibi sabit noktalarda bulunmaktadır.
+* <i class="fa-x" style="color:red;">:x:</i> Mana dolumu meditation beceri seviyesine göre değişmez. Her bir başarılı meditation +1 mana verir bu sabittir. Meditation beceri seviyesi sadece başarılı bir şekilde transa geçip +1 mana almanızı sağlar. Eğer Meditation beceriniz düşükse transa geçmekte zorlanır ve mana alamazsınız. Herhangi bir mana & medi bonusu <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Yerdeki eşyalara çift tıklayarak kullanamamak gibi bir kısıtlama <mark style="color:red;">**YOK**</mark>, Sadece günümüz bilgisayar ekipmanlarının macro yazılımlarından sebep; kesilen cesetlerde ortaya çıkan eşyalara çift tıklayarak kullanmaya ufak bir delay eklenmiştir.
+* <i class="fa-x" style="color:red;">:x:</i> Hiçbir silah 2 kareden vurmaz (çift el silahlar da dahil),
+* <i class="fa-x" style="color:red;">:x:</i> Çok çeşitli bonuslar (dismount, bleeding, kör etme, sakatlama, el-kol-bacak kırma) <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> İn-bin, .gheal-.gcure, .bandaj veya bandageself/target macroları vs gibi potion komutları veya macrolar, oyunu çok basite indirgeyen yardımcı aksiyon komutları <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Silah upgrade veya birleştirme sistemi <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Level, rank veya puan sistemi <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Kelle sallama <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i>  Online oyuncu listesini görebilme <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Ekstra büyü hasarını arttıran herhangi bir eşya <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Ekstra resist özelliği bulunan robeler (Mage-Wizard-Ice-Fire vs.) <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Ekstra hits, mana, stam sağlayan herhangi giyilebilir eşyalar <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Ekstra özelliği bulunan herhangi giyilebilir bir eşya (Zırh, kafalık, özel kalkan vs) <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Ekstra özelliği bulunan herhangi bir silah <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Özel bonus, büyü atma yeteneği olan veya zehirden etkilenmemenizi sağlayan özel binekler <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> Yumurta/kuluçka sistemi <mark style="color:red;">**YOK**</mark>,
+* <i class="fa-x" style="color:red;">:x:</i> AOS harici npcler <mark style="color:red;">**YOK**</mark>,
+
+Kısaca birçok sistem & dinamik ve eşya 2000'li yılların Ultima Online dokusuna bağlı kalarak hazırlanmıştır. O yıllarda olmayan çoğu şey _<mark style="color:red;">**YOKTUR**</mark>_.
+
+
+
+--- Dosya: ./oyun/baslangic/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Başlangıç
+
+
+
+--- Dosya: ./oyun/sistemler/bonuslar.md ---
+
+---
+description: >-
+  Sunucudaki tüm combat bonusları aşağıda listelenmiştir. Tablodaki bonuslar
+  dışında entegre çalışan bonuslar da mevcuttur.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Bonuslar
+
+## Dahili Bonuslar
+
+**Magery**
+
+Magery karakterler için ekstra skill bonusu bulunmamaktadır. Inscription veya Evaluating Intel becerisi ekstra büyü hasarı _**sağlamaz**_.
+
+**Macefighting**
+
+Silahlarının entegre çalışan stam düşürme bonusu mevcuttur. Macefighting becerisine ait tüm silahlarda her darbede rakibinizin **3-5** arası stamina değerini düşürür.
+
+_Bu stamina düşürme bonusu silahlara entegre çalıştığı ve karakter üzerine verilmediği için bonus tablosunda yer almamaktadır._
+
+
+
+## Harici Bonuslar
+
+#### **Disarm**
+
+Rakibinizin silahını çantasına düşürmenizi sağlar.
+
+<table><thead><tr><th width="213">Gereken Beceriler</th><th>Gereken Eşyalar</th></tr></thead><tbody><tr><td>80.0 Wrestling, Armslore</td><td>-</td></tr></tbody></table>
+
+***
+
+#### **Paradarbe**
+
+Rakibinizi bir süre hareketsiz kılmanızı sağlar.
+
+<table><thead><tr><th width="213">Gereken Beceriler</th><th>Text</th></tr></thead><tbody><tr><td>98.0 Fencing</td><td>Short Spear &#x26; Spear</td></tr></tbody></table>
+
+***
+
+#### **Axe (Lumberjack)**
+
+Rakibinize kritik hasar vermenizi sağlar
+
+Tüm axe türü silahlar belirli oranda ekstra hasar verir fakat Lumberjacking beceriniz 98.0'dan yüksekse bu hasar 2 kere verilir.
+
+Örneğin;
+
+Rakibe 20 hasar verdiğinizi varsayarsak. 20 hasara ek olarak sadece axe türü silah kullandığınız için ek 2 hasarın yanısıra Lumberjacking beceriniz 98.0 üzerinde ise bu 2 hasara ek olarak 2 hasar daha eklenerek toplam hasar 24'e çıkar.
+
+<table><thead><tr><th width="213">Gereken Beceriler</th><th>Gereken Eşyalar</th></tr></thead><tbody><tr><td>98.0 Lumberjacking</td><td>Large Battle Axe &#x26; Double Axe &#x26; Battle Axe &#x26; Two Handed Axe &#x26; War Axe &#x26; Executioner Axe</td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/sistemler/komutlar/ev-komutlari.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Ev Komutları
+
+{% hint style="info" %}
+Ev komutları başında "." (nokta) olmadan girilmelidir.
+{% endhint %}
+
+<table><thead><tr><th width="264">Komut</th><th>İşlev</th></tr></thead><tbody><tr><td><strong>strongbox</strong></td><td>Evde size ait özel bir kutu oluşturmanızı sağlar.</td></tr><tr><td><strong>item up</strong></td><td>Architect vendorunda bulunan "Interior Decorator" esyasini kullanmanızı sağlar.</td></tr><tr><td><strong>item down</strong></td><td>Architect vendorunda bulunan "Interior Decorator" esyasini kullanmanızı sağlar.</td></tr><tr><td><strong>item flip</strong></td><td>Architect vendorunda bulunan "Interior Decorator" esyasini kullanmanızı sağlar.</td></tr><tr><td><strong>lock this &#x26; sabitle</strong></td><td>Evinizdeki bir eşyayı evinize sabitlemenizi sağlar.</td></tr><tr><td><strong>release this &#x26; serbest birak</strong></td><td>Evinizde sabitlenmiş bir eşyanın sabitliğini kaldırmanızı sağlar.</td></tr><tr><td><strong>secure this</strong></td><td>Evinizdeki bir kutu &#x26; kasayı güvenli kılmanızı sağlar.</td></tr><tr><td><strong>bank</strong></td><td>Evinizde banka açmanızı sağlar.</td></tr><tr><td><strong>remove thyself &#x26; i ban thee</strong></td><td>Canlı bir varlığı evinizden kovmanızı / atmanızı sağlar.</td></tr><tr><td><strong>trashcan</strong></td><td>Evinizde çöp kutusu oluşturmanızı sağlar.</td></tr><tr><td><strong>reward barrel</strong></td><td>Evinizde reward barrel oluşturmanızı sağlar.</td></tr><tr><td><strong>resurrect</strong></td><td>10 saniye içinde evinizde hayata dönmenizi sağlar.</td></tr><tr><td><strong>help &#x26; commands</strong></td><td>Oyuniçi ev komutları menüsünü açmanızı sağlar.</td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/sistemler/komutlar/genel-komutlar.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Genel Komutlar
+
+<table><thead><tr><th width="123">Komut</th><th width="427">İşlev</th><th>İlgili Sistem</th></tr></thead><tbody><tr><td><strong>.player</strong></td><td>Oyuncu menüsünü açmanızı sağlar.</td><td></td></tr><tr><td><strong>.stat</strong></td><td>Stat işlemlerinizi yapmanızı sağlar.</td><td></td></tr><tr><td><strong>.where</strong></td><td>Karakterin bulunduğu bölgenin bilgisini görüntüler.</td><td></td></tr><tr><td><strong>.pinim</strong></td><td>Pin değiştirme işlemi için gerekli sayfaya yönlendirir.</td><td></td></tr><tr><td><strong>.aile</strong></td><td>Aile menüsünü görüntüler.</td><td><a data-mention href="../cesitli/aile.md">aile.md</a></td></tr><tr><td><strong>.a</strong></td><td>Aile üyeleri arası sohbet etmeyi sağlar.</td><td><a data-mention href="../cesitli/aile.md">aile.md</a></td></tr><tr><td><strong>.age</strong></td><td>Karakterinizin yaşını görmenizi sağlar.</td><td></td></tr><tr><td><strong>.hungry</strong></td><td>Karakterinizin açlık seviyesini görmenizi sağlar.</td><td></td></tr><tr><td><strong>.disarm</strong></td><td>Disarm bonusunuzu açıp kapatmanızı sağlar.</td><td></td></tr><tr><td><strong>.regs</strong></td><td>Çantanızdaki reagents miktarlarını tek menüden görmenizi sağlar.</td><td></td></tr><tr><td><strong>.ores</strong></td><td>Çantanızdaki ores miktarlarını tek menüden görmenizi sağlar.</td><td></td></tr><tr><td><strong>.ingots</strong></td><td>Çantanızdaki ingots miktarlarını tek menüden görmenizi sağlar.</td><td></td></tr><tr><td><strong>.potions</strong></td><td>Çantanızdaki potions miktarlarını tek menüden görmenizi sağlar.</td><td></td></tr><tr><td><strong>.sicil</strong></td><td>Karakterinizin jail sicil durumunu görüntülemenizi sağlar.</td><td></td></tr><tr><td><strong>.skilldudur</strong></td><td>Karakterinizin seçilen skillerini düşürmenizi sağlar.</td><td></td></tr><tr><td><strong>.ihbar</strong></td><td>Herhangi bir olumsuz durumu yetkililere bildirmenizi sağlar.</td><td></td></tr><tr><td><strong>.gc</strong></td><td>Guild üyeleri arası sohbet etmeyi sağlar.</td><td><a data-mention href="../cesitli/guild.md">guild.md</a></td></tr><tr><td><strong>.gonline</strong></td><td>Çevrimiçi guild üyelerinizi görmenizi sağlar.</td><td><a data-mention href="../cesitli/guild.md">guild.md</a></td></tr></tbody></table>
+
+
+
+--- Dosya: ./oyun/sistemler/komutlar/gemi-komutlari.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Gemi Komutları
+
+{% hint style="info" %}
+Gemi komutları başında "." (nokta) olmadan girilmelidir.
+{% endhint %}
+
+<table><thead><tr><th width="260">Komut</th><th>İşlev</th></tr></thead><tbody><tr><td><strong>stop</strong></td><td>Geminin olduğu yerde durmasını sağlar.</td></tr><tr><td><strong>turn left</strong></td><td>Gemiyi sola çevirir / döndürür.</td></tr><tr><td><strong>turn right</strong></td><td>Gemiyi sağa çevirir / döndürür.</td></tr><tr><td><strong>left</strong></td><td>Geminin sola gitmesini sağlar.</td></tr><tr><td><strong>right</strong></td><td>Geminin sağa gitmesini sağlar.</td></tr><tr><td><strong>back &#x26; backward</strong></td><td>Geminin geri gitmesini sağlar.</td></tr><tr><td><strong>forward</strong></td><td>Geminin ileri gitmesini sağlar.</td></tr><tr><td><strong>forward left</strong></td><td></td></tr><tr><td><strong>forward right</strong></td><td></td></tr><tr><td><strong>backward left &#x26; back left</strong></td><td></td></tr><tr><td><strong>backward right &#x26; back right</strong></td><td></td></tr><tr><td><strong>raise anchor</strong></td><td>Geminin çapasını yukarı çeker / kaldırır.</td></tr><tr><td><strong>drop anchor</strong></td><td>Geminin çapasını aşağı indirir. Gemi çapası aşağıdayken hiç bir hareket komutu işlemez. Önce gemi çapası yukarı çekilmelidir.</td></tr><tr><td><strong>turn around</strong></td><td>Gemiyi geriye döndürür. Geminin baş tarafı kıça, kıç tarafı başa döner. </td></tr><tr><td><strong>up</strong></td><td></td></tr><tr><td><strong>down</strong></td><td></td></tr><tr><td><strong>land</strong></td><td></td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/sistemler/komutlar/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Komutlar
+
+
+
+--- Dosya: ./oyun/sistemler/crafting.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Crafting
+
+
+
+--- Dosya: ./oyun/sistemler/etkinlik.md ---
+
+# Etkinlik
+
+
+
+--- Dosya: ./oyun/sistemler/cesitli/pin.md ---
+
+# Pin
+
+
+
+--- Dosya: ./oyun/sistemler/cesitli/ihbar.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# İhbar
+
+
+
+--- Dosya: ./oyun/sistemler/cesitli/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Çeşitli
+
+
+
+--- Dosya: ./oyun/sistemler/cesitli/guild.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Guild
+
+
+
+--- Dosya: ./oyun/sistemler/cesitli/aile.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Aile
+
+
+
+--- Dosya: ./oyun/sistemler/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Sistemler
+
+
+
+--- Dosya: ./oyun/buyuler/magicreflect.md ---
+
+# MagicReflect
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Magic Reflect |
+| **Sözü**           | In Jux Sanct  |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 2.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 14            |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/paralyzefield.md ---
+
+# ParalyzeField
+
+![Paralyze Field](../../.gitbook/assets/imagesParalyzeField.bmp)
+
+| Alan               | Değer          |
+| ------------------ | -------------- |
+| **Adı**            | Paralyze Field |
+| **Sözü**           | In Ex Grav     |
+| **Reagents**       |                |
+| **Duration**       | {30 50} sn.    |
+| **Cast Time**      | 3.0            |
+| **Freeze Time**    |                |
+| **Gereken Mana**   | 20             |
+| **Gereken Magery** | 10.0           |
+
+
+--- Dosya: ./oyun/buyuler/energyfield.md ---
+
+# EnergyField
+
+![Energy Field](../../.gitbook/assets/imagesEnergyField.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Energy Field  |
+| **Sözü**           | In Sanct Grav |
+| **Reagents**       |               |
+| **Duration**       | {360 600} sn. |
+| **Cast Time**      | 3.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 40            |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/firefield.md ---
+
+# FireField
+
+![Fire Field](../../.gitbook/assets/imagesFireField.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Fire Field   |
+| **Sözü**           | In Flam Grav |
+| **Reagents**       |              |
+| **Duration**       | {40 50} sn.  |
+| **Cast Time**      | 2.0          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 11           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/magicarrow.md ---
+
+# MagicArrow
+
+![Magic Arrow](../../.gitbook/assets/imagesMagicArrow.bmp)
+
+| Alan               | Değer       |
+| ------------------ | ----------- |
+| **Adı**            | Magic Arrow |
+| **Sözü**           | In Por Ylem |
+| **Reagents**       |             |
+| **Duration**       |             |
+| **Cast Time**      | 0.5         |
+| **Freeze Time**    |             |
+| **Gereken Mana**   | 4           |
+| **Gereken Magery** | 10.0        |
+
+
+--- Dosya: ./oyun/buyuler/feeblemind.md ---
+
+# Feeblemind
+
+![Feeblemind](../../.gitbook/assets/imagesFeeblemind.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Feeblemind    |
+| **Sözü**           | Rel Wis       |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 0.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 4             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/energybolt.md ---
+
+# EnergyBolt
+
+![Energy Bolt](../../.gitbook/assets/imagesEnergyBolt.bmp)
+
+| Alan               | Değer       |
+| ------------------ | ----------- |
+| **Adı**            | Energy Bolt |
+| **Sözü**           | Corp Por    |
+| **Reagents**       |             |
+| **Duration**       |             |
+| **Cast Time**      | 3.0         |
+| **Freeze Time**    |             |
+| **Gereken Mana**   | 20          |
+| **Gereken Magery** | 10.0        |
+
+
+--- Dosya: ./oyun/buyuler/telekinesis.md ---
+
+# Telekinesis
+
+![Telekinesis](../../.gitbook/assets/imagesTelekinesis.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Telekinesis  |
+| **Sözü**           | Ort Por Ylem |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 1.5          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 9            |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/teleport.md ---
+
+# Teleport
+
+![Teleport](../../.gitbook/assets/imagesTeleport.bmp)
+
+| Alan               | Değer    |
+| ------------------ | -------- |
+| **Adı**            | Teleport |
+| **Sözü**           | Rel Por  |
+| **Reagents**       |          |
+| **Duration**       |          |
+| **Cast Time**      | 1.5      |
+| **Freeze Time**    |          |
+| **Gereken Mana**   | 9        |
+| **Gereken Magery** | 10.0     |
+
+
+--- Dosya: ./oyun/buyuler/dispelfield.md ---
+
+# DispelField
+
+![Dispel Field](../../.gitbook/assets/imagesDispelField.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Dispel Field |
+| **Sözü**           | An Grav      |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 2.5          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 14           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/weaken.md ---
+
+# Weaken
+
+![Weaken](../../.gitbook/assets/imagesWeaken.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Weaken        |
+| **Sözü**           | Des Mani      |
+| **Reagents**       |               |
+| **Duration**       | {120 180} sn. |
+| **Cast Time**      | 0.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 4             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/mindblast.md ---
+
+# MindBlast
+
+![Mind Blast](../../.gitbook/assets/imagesMindBlast.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Mind Blast   |
+| **Sözü**           | Por Corp Wis |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 2.5          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 14           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/earthquake.md ---
+
+# Earthquake
+
+![Earthquake](../../.gitbook/assets/imagesEarthquake.bmp)
+
+| Alan               | Değer      |
+| ------------------ | ---------- |
+| **Adı**            | Earthquake |
+| **Sözü**           | In Vas Por |
+| **Reagents**       |            |
+| **Duration**       | {30 0} sn. |
+| **Cast Time**      | 4.0        |
+| **Freeze Time**    |            |
+| **Gereken Mana**   | 50         |
+| **Gereken Magery** | 10.0       |
+
+
+--- Dosya: ./oyun/buyuler/poisonfield.md ---
+
+# PoisonField
+
+![Poison Field](../../.gitbook/assets/imagesPoisonField.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Poison Field  |
+| **Sözü**           | In Nox Grav   |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 2.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 14            |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/daemon.md ---
+
+# Daemon
+
+| Alan               | Değer            |
+| ------------------ | ---------------- |
+| **Adı**            | Daemon           |
+| **Sözü**           | Kal Vas Xen Corp |
+| **Reagents**       |                  |
+| **Duration**       | {120 180} sn.    |
+| **Cast Time**      | 4.0              |
+| **Freeze Time**    |                  |
+| **Gereken Mana**   | 50               |
+| **Gereken Magery** | 10.0             |
+
+
+--- Dosya: ./oyun/buyuler/magiclock.md ---
+
+# MagicLock
+
+![Magic Lock](../../.gitbook/assets/imagesMagicLock.bmp)
+
+| Alan               | Değer      |
+| ------------------ | ---------- |
+| **Adı**            | Magic Lock |
+| **Sözü**           | An Por     |
+| **Reagents**       |            |
+| **Duration**       |            |
+| **Cast Time**      | 1.5        |
+| **Freeze Time**    |            |
+| **Gereken Mana**   | 9          |
+| **Gereken Magery** | 10.0       |
+
+
+--- Dosya: ./oyun/buyuler/wallofstone.md ---
+
+# WallofStone
+
+![Wall of Stone](../../.gitbook/assets/imagesWallofStone.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Wall of Stone |
+| **Sözü**           | In Sanct Ylem |
+| **Reagents**       |               |
+| **Duration**       | {25 30} sn.   |
+| **Cast Time**      | 1.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 9             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/meteorswarm.md ---
+
+# MeteorSwarm
+
+![Meteor Swarm](../../.gitbook/assets/imagesMeteorSwarm.bmp)
+
+| Alan               | Değer             |
+| ------------------ | ----------------- |
+| **Adı**            | Meteor Swarm      |
+| **Sözü**           | Flam Kal Des Ylem |
+| **Reagents**       |                   |
+| **Duration**       |                   |
+| **Cast Time**      | 3.5               |
+| **Freeze Time**    |                   |
+| **Gereken Mana**   | 40                |
+| **Gereken Magery** | 10.0              |
+
+
+--- Dosya: ./oyun/buyuler/summary.md ---
+
+# SUMMARY
+
+* [Clumsy](clumsy.md)
+* [Create Food](createfood.md)
+* [Feeblemind](feeblemind.md)
+* [Heal](heal.md)
+* [Magic Arrow](magicarrow.md)
+* [Night Sight](nightsight.md)
+* [Reactive Armor](reactivearmor.md)
+* [Weaken](weaken.md)
+* [Agility](agility.md)
+* [Cunning](cunning.md)
+* [Cure](cure.md)
+* [Harm](harm.md)
+* [Magic Trap](magictrap.md)
+* [Magic Untrap](magicuntrap.md)
+* [Protection](protection.md)
+* [Strength](strength.md)
+* [Bless](bless.md)
+* [Fireball](fireball.md)
+* [Magic Lock](magiclock.md)
+* [Poison](poison.md)
+* [Telekinesis](telekinesis.md)
+* [Teleport](teleport.md)
+* [Unlock](unlock.md)
+* [Wall of Stone](wallofstone.md)
+* [Arch Cure](archcure.md)
+* [Arch Protection](archprotection.md)
+* [Curse](curse.md)
+* [Fire Field](firefield.md)
+* [Greater Heal](greaterheal.md)
+* [Lightning](lightning.md)
+* [Mana Drain](manadrain.md)
+* [Recall](recall.md)
+* [Blade Spirit](bladespirit.md)
+* [Dispel Field](dispelfield.md)
+* [Incognito](incognito.md)
+* [Magic Reflect](magicreflect.md)
+* [Mind Blast](mindblast.md)
+* [Paralyze](paralyze.md)
+* [Poison Field](poisonfield.md)
+* [Summon](summon.md)
+* [Dispel](dispel.md)
+* [Energy Bolt](energybolt.md)
+* [Explosion](explosion.md)
+* [Invisibility](invisibility.md)
+* [Mark](mark.md)
+* [Mass Curse](masscurse.md)
+* [Paralyze Field](paralyzefield.md)
+* [Reveal](reveal.md)
+* [Chain Lightning](chainlightning.md)
+* [Energy Field](energyfield.md)
+* [Flame Strike](flamestrike.md)
+* [Gate Travel](gatetravel.md)
+* [Mana Vampire](manavampire.md)
+* [Mass Dispel](massdispel.md)
+* [Meteor Swarm](meteorswarm.md)
+* [Polymorph](polymorph.md)
+* [Earthquake](earthquake.md)
+* [Energy Vortex](energyvortex.md)
+* [Resurrection](resurrection.md)
+* [Air Elemental](airelemental.md)
+* [Daemon](daemon.md)
+* [Earth Elemental](earthelemental.md)
+* [Fire Elemental](fireelemental.md)
+* [Water Elemental](waterelemental.md)
+
+
+--- Dosya: ./oyun/buyuler/reveal.md ---
+
+# Reveal
+
+![Reveal](../../.gitbook/assets/imagesReveal.bmp)
+
+| Alan               | Değer    |
+| ------------------ | -------- |
+| **Adı**            | Reveal   |
+| **Sözü**           | Wis Quas |
+| **Reagents**       |          |
+| **Duration**       |          |
+| **Cast Time**      | 3.0      |
+| **Freeze Time**    |          |
+| **Gereken Mana**   | 20       |
+| **Gereken Magery** | 10.0     |
+
+
+--- Dosya: ./oyun/buyuler/clumsy.md ---
+
+# Clumsy
+
+![Clumsy](../../.gitbook/assets/imagesClumsy.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Clumsy        |
+| **Sözü**           | Uus Jux       |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 0.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 4             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/flamestrike.md ---
+
+# FlameStrike
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Flame Strike |
+| **Sözü**           | Kal Vas Flam |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 3.5          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 40           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/gatetravel.md ---
+
+# GateTravel
+
+![Gate Travel](../../.gitbook/assets/imagesGateTravel.bmp)
+
+| Alan               | Değer       |
+| ------------------ | ----------- |
+| **Adı**            | Gate Travel |
+| **Sözü**           | Vas Rel Por |
+| **Reagents**       |             |
+| **Duration**       | {90 0} sn.  |
+| **Cast Time**      | 5.0         |
+| **Freeze Time**    |             |
+| **Gereken Mana**   | 0           |
+| **Gereken Magery** | 10.0        |
+
+
+--- Dosya: ./oyun/buyuler/magicuntrap.md ---
+
+# MagicUntrap
+
+![Magic Untrap](../../.gitbook/assets/imagesMagicUntrap.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Magic Untrap |
+| **Sözü**           | An Jux       |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 1.0          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 6            |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/resurrection.md ---
+
+# Resurrection
+
+![Resurrection](../../.gitbook/assets/imagesResurrection.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Resurrection |
+| **Sözü**           | An Corp      |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 4.0          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 50           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/magictrap.md ---
+
+# MagicTrap
+
+![Magic Trap](../../.gitbook/assets/imagesMagicTrap.bmp)
+
+| Alan               | Değer      |
+| ------------------ | ---------- |
+| **Adı**            | Magic Trap |
+| **Sözü**           | In Jux     |
+| **Reagents**       |            |
+| **Duration**       |            |
+| **Cast Time**      | 1.0        |
+| **Freeze Time**    |            |
+| **Gereken Mana**   | 6          |
+| **Gereken Magery** | 10.0       |
+
+
+--- Dosya: ./oyun/buyuler/explosion.md ---
+
+# Explosion
+
+![Explosion](../../.gitbook/assets/imagesExplosion.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Explosion    |
+| **Sözü**           | Vas Ort Flam |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 3.0          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 20           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/manavampire.md ---
+
+# ManaVampire
+
+![Mana Vampire](../../.gitbook/assets/imagesManaVampire.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Mana Vampire |
+| **Sözü**           | Ort Sanct    |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 3.5          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 40           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/paralyze.md ---
+
+# Paralyze
+
+![Paralyze](../../.gitbook/assets/imagesParalyze.bmp)
+
+| Alan               | Değer      |
+| ------------------ | ---------- |
+| **Adı**            | Paralyze   |
+| **Sözü**           | An Ex Por  |
+| **Reagents**       |            |
+| **Duration**       | {15 0} sn. |
+| **Cast Time**      | 3.0        |
+| **Freeze Time**    |            |
+| **Gereken Mana**   | 14         |
+| **Gereken Magery** | 10.0       |
+
+
+--- Dosya: ./oyun/buyuler/cure.md ---
+
+# Cure
+
+![Cure](../../.gitbook/assets/imagesCure.bmp)
+
+| Alan               | Değer  |
+| ------------------ | ------ |
+| **Adı**            | Cure   |
+| **Sözü**           | An Nox |
+| **Reagents**       |        |
+| **Duration**       |        |
+| **Cast Time**      | 1.0    |
+| **Freeze Time**    |        |
+| **Gereken Mana**   | 6      |
+| **Gereken Magery** | 10.0   |
+
+
+--- Dosya: ./oyun/buyuler/bless.md ---
+
+# Bless
+
+![Bless](../../.gitbook/assets/imagesBless.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Bless         |
+| **Sözü**           | Rel Sanct     |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 1.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 9             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/curse.md ---
+
+# Curse
+
+![Curse](../../.gitbook/assets/imagesCurse.bmp)
+
+| Alan               | Değer       |
+| ------------------ | ----------- |
+| **Adı**            | Curse       |
+| **Sözü**           | Des Sanct   |
+| **Reagents**       |             |
+| **Duration**       | {10 60} sn. |
+| **Cast Time**      | 2.0         |
+| **Freeze Time**    |             |
+| **Gereken Mana**   | 11          |
+| **Gereken Magery** | 10.0        |
+
+
+--- Dosya: ./oyun/buyuler/fireball.md ---
+
+# Fireball
+
+![Fireball](../../.gitbook/assets/imagesFireball.bmp)
+
+| Alan               | Değer    |
+| ------------------ | -------- |
+| **Adı**            | Fireball |
+| **Sözü**           | Vas Flam |
+| **Reagents**       |          |
+| **Duration**       |          |
+| **Cast Time**      | 1.5      |
+| **Freeze Time**    |          |
+| **Gereken Mana**   | 9        |
+| **Gereken Magery** | 10.0     |
+
+
+--- Dosya: ./oyun/buyuler/waterelemental.md ---
+
+# WaterElemental
+
+![Water Elemental](../../.gitbook/assets/imagesWaterElemental.bmp)
+
+| Alan               | Değer               |
+| ------------------ | ------------------- |
+| **Adı**            | Water Elemental     |
+| **Sözü**           | Kal Vas Xen An Flam |
+| **Reagents**       |                     |
+| **Duration**       | {120 180} sn.       |
+| **Cast Time**      | 4.0                 |
+| **Freeze Time**    |                     |
+| **Gereken Mana**   | 50                  |
+| **Gereken Magery** | 10.0                |
+
+
+--- Dosya: ./oyun/buyuler/chainlightning.md ---
+
+# ChainLightning
+
+![Chain Lightning](../../.gitbook/assets/imagesChainLightning.bmp)
+
+| Alan               | Değer           |
+| ------------------ | --------------- |
+| **Adı**            | Chain Lightning |
+| **Sözü**           | Vas Ort Grav    |
+| **Reagents**       |                 |
+| **Duration**       |                 |
+| **Cast Time**      | 3.5             |
+| **Freeze Time**    |                 |
+| **Gereken Mana**   | 40              |
+| **Gereken Magery** | 10.0            |
+
+
+--- Dosya: ./oyun/buyuler/protection.md ---
+
+# Protection
+
+![Protection](../../.gitbook/assets/imagesProtection.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Protection    |
+| **Sözü**           | Uus Sanct     |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 1.0           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 6             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/invisibility.md ---
+
+# Invisibility
+
+![Invisibility](../../.gitbook/assets/imagesInvisibility.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Invisibility  |
+| **Sözü**           | An Lor Xen    |
+| **Reagents**       |               |
+| **Duration**       | {180 300} sn. |
+| **Cast Time**      | 3.0           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 20            |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/archcure.md ---
+
+# ArchCure
+
+![Arch Cure](../../.gitbook/assets/imagesArchCure.bmp)
+
+| Alan               | Değer      |
+| ------------------ | ---------- |
+| **Adı**            | Arch Cure  |
+| **Sözü**           | Vas An Nox |
+| **Reagents**       |            |
+| **Duration**       |            |
+| **Cast Time**      | 2.0        |
+| **Freeze Time**    |            |
+| **Gereken Mana**   | 11         |
+| **Gereken Magery** | 10.0       |
+
+
+--- Dosya: ./oyun/buyuler/recall.md ---
+
+# Recall
+
+![Recall](../../.gitbook/assets/imagesRecall.bmp)
+
+| Alan               | Değer       |
+| ------------------ | ----------- |
+| **Adı**            | Recall      |
+| **Sözü**           | Kal Ort Por |
+| **Reagents**       |             |
+| **Duration**       |             |
+| **Cast Time**      | 4.0         |
+| **Freeze Time**    |             |
+| **Gereken Mana**   | 0           |
+| **Gereken Magery** | 10.0        |
+
+
+--- Dosya: ./oyun/buyuler/strength.md ---
+
+# Strength
+
+![Strength](../../.gitbook/assets/imagesStrength.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Strength      |
+| **Sözü**           | Uus Mani      |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 1.0           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 6             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/archprotection.md ---
+
+# ArchProtection
+
+![Arch Protection](../../.gitbook/assets/imagesArchProtection.bmp)
+
+| Alan               | Değer           |
+| ------------------ | --------------- |
+| **Adı**            | Arch Protection |
+| **Sözü**           | Vas Uus Sanct   |
+| **Reagents**       |                 |
+| **Duration**       | {30 90} sn.     |
+| **Cast Time**      | 2.0             |
+| **Freeze Time**    |                 |
+| **Gereken Mana**   | 11              |
+| **Gereken Magery** | 10.0            |
+
+
+--- Dosya: ./oyun/buyuler/summon.md ---
+
+# Summon
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Summon       |
+| **Sözü**           | Kal Xen      |
+| **Reagents**       |              |
+| **Duration**       | {60 120} sn. |
+| **Cast Time**      | 2.5          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 14           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/reactivearmor.md ---
+
+# ReactiveArmor
+
+![Reactive Armor](../../.gitbook/assets/imagesReactiveArmor.bmp)
+
+| Alan               | Değer          |
+| ------------------ | -------------- |
+| **Adı**            | Reactive Armor |
+| **Sözü**           | Flam Sanct     |
+| **Reagents**       |                |
+| **Duration**       | {120 240} sn.  |
+| **Cast Time**      | 0.5            |
+| **Freeze Time**    |                |
+| **Gereken Mana**   | 4              |
+| **Gereken Magery** | 10.0           |
+
+
+--- Dosya: ./oyun/buyuler/fireelemental.md ---
+
+# FireElemental
+
+![Fire Elemental](../../.gitbook/assets/imagesFireElemental.bmp)
+
+| Alan               | Değer            |
+| ------------------ | ---------------- |
+| **Adı**            | Fire Elemental   |
+| **Sözü**           | Kal Vas Xen Flam |
+| **Reagents**       |                  |
+| **Duration**       | {120 180} sn.    |
+| **Cast Time**      | 4.0              |
+| **Freeze Time**    |                  |
+| **Gereken Mana**   | 50               |
+| **Gereken Magery** | 10.0             |
+
+
+--- Dosya: ./oyun/buyuler/unlock.md ---
+
+# Unlock
+
+| Alan               | Değer  |
+| ------------------ | ------ |
+| **Adı**            | Unlock |
+| **Sözü**           | Ex Por |
+| **Reagents**       |        |
+| **Duration**       |        |
+| **Cast Time**      | 1.5    |
+| **Freeze Time**    |        |
+| **Gereken Mana**   | 9      |
+| **Gereken Magery** | 10.0   |
+
+
+--- Dosya: ./oyun/buyuler/nightsight.md ---
+
+# NightSight
+
+![Night Sight](../../.gitbook/assets/imagesNightSight.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Night Sight   |
+| **Sözü**           | In Lor        |
+| **Reagents**       |               |
+| **Duration**       | {600 720} sn. |
+| **Cast Time**      | 0.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 4             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/airelemental.md ---
+
+# AirElemental
+
+![Air Elemental](../../.gitbook/assets/imagesAirElemental.bmp)
+
+| Alan               | Değer           |
+| ------------------ | --------------- |
+| **Adı**            | Air Elemental   |
+| **Sözü**           | Kal Vas Xen Hur |
+| **Reagents**       |                 |
+| **Duration**       | {120 180} sn.   |
+| **Cast Time**      | 4.0             |
+| **Freeze Time**    |                 |
+| **Gereken Mana**   | 50              |
+| **Gereken Magery** | 10.0            |
+
+
+--- Dosya: ./oyun/buyuler/greaterheal.md ---
+
+# GreaterHeal
+
+![Greater Heal](../../.gitbook/assets/imagesGreaterHeal.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Greater Heal |
+| **Sözü**           | In Vas Mani  |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 2.0          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 11           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/massdispel.md ---
+
+# MassDispel
+
+![Mass Dispel](../../.gitbook/assets/imagesMassDispel.bmp)
+
+| Alan               | Değer       |
+| ------------------ | ----------- |
+| **Adı**            | Mass Dispel |
+| **Sözü**           | Vas An Ort  |
+| **Reagents**       |             |
+| **Duration**       |             |
+| **Cast Time**      | 4.0         |
+| **Freeze Time**    |             |
+| **Gereken Mana**   | 40          |
+| **Gereken Magery** | 10.0        |
+
+
+--- Dosya: ./oyun/buyuler/masscurse.md ---
+
+# MassCurse
+
+![Mass Curse](../../.gitbook/assets/imagesMassCurse.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Mass Curse    |
+| **Sözü**           | Vas Des Sanct |
+| **Reagents**       |               |
+| **Duration**       |               |
+| **Cast Time**      | 3.0           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 20            |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/energyvortex.md ---
+
+# EnergyVortex
+
+![Energy Vortex](../../.gitbook/assets/imagesEnergyVortex.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Energy Vortex |
+| **Sözü**           | Vas Corp Por  |
+| **Reagents**       |               |
+| **Duration**       | {120 180} sn. |
+| **Cast Time**      | 5.0           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 60            |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/bladespirit.md ---
+
+# BladeSpirit
+
+![Blade Spirit](../../.gitbook/assets/imagesBladeSpirit.bmp)
+
+| Alan               | Değer           |
+| ------------------ | --------------- |
+| **Adı**            | Blade Spirit    |
+| **Sözü**           | In Jux Hur Ylem |
+| **Reagents**       |                 |
+| **Duration**       | {120 180} sn.   |
+| **Cast Time**      | 2.5             |
+| **Freeze Time**    |                 |
+| **Gereken Mana**   | 14              |
+| **Gereken Magery** | 10.0            |
+
+
+--- Dosya: ./oyun/buyuler/mark.md ---
+
+# Mark
+
+![Mark](../../.gitbook/assets/imagesMark.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Mark         |
+| **Sözü**           | Kal Por Ylem |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 3.0          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 20           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/poison.md ---
+
+# Poison
+
+![Poison](../../.gitbook/assets/imagesPoison.bmp)
+
+| Alan               | Değer     |
+| ------------------ | --------- |
+| **Adı**            | Poison    |
+| **Sözü**           | In Nox    |
+| **Reagents**       |           |
+| **Duration**       | {0 0} sn. |
+| **Cast Time**      | 2.0       |
+| **Freeze Time**    |           |
+| **Gereken Mana**   | 9         |
+| **Gereken Magery** | 10.0      |
+
+
+--- Dosya: ./oyun/buyuler/agility.md ---
+
+# Agility
+
+![Agility](../../.gitbook/assets/imagesAgility.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Agility       |
+| **Sözü**           | Ex Uus        |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 1.0           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 6             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/earthelemental.md ---
+
+# EarthElemental
+
+![Earth Elemental](../../.gitbook/assets/imagesEarthElemental.bmp)
+
+| Alan               | Değer            |
+| ------------------ | ---------------- |
+| **Adı**            | Earth Elemental  |
+| **Sözü**           | Kal Vas Xen Ylem |
+| **Reagents**       |                  |
+| **Duration**       | {120 180} sn.    |
+| **Cast Time**      | 4.0              |
+| **Freeze Time**    |                  |
+| **Gereken Mana**   | 50               |
+| **Gereken Magery** | 10.0             |
+
+
+--- Dosya: ./oyun/buyuler/manadrain.md ---
+
+# ManaDrain
+
+![Mana Drain](../../.gitbook/assets/imagesManaDrain.bmp)
+
+| Alan               | Değer      |
+| ------------------ | ---------- |
+| **Adı**            | Mana Drain |
+| **Sözü**           | Ort Rel    |
+| **Reagents**       |            |
+| **Duration**       |            |
+| **Cast Time**      | 2.0        |
+| **Freeze Time**    |            |
+| **Gereken Mana**   | 11         |
+| **Gereken Magery** | 10.0       |
+
+
+--- Dosya: ./oyun/buyuler/createfood.md ---
+
+# CreateFood
+
+![Create Food](../../.gitbook/assets/imagesCreateFood.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Create Food  |
+| **Sözü**           | In Mani Ylem |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 0.5          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 4            |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/heal.md ---
+
+# Heal
+
+![Heal](../../.gitbook/assets/imagesHeal.bmp)
+
+| Alan               | Değer   |
+| ------------------ | ------- |
+| **Adı**            | Heal    |
+| **Sözü**           | In Mani |
+| **Reagents**       |         |
+| **Duration**       |         |
+| **Cast Time**      | 0.5     |
+| **Freeze Time**    |         |
+| **Gereken Mana**   | 4       |
+| **Gereken Magery** | 10.0    |
+
+
+--- Dosya: ./oyun/buyuler/lightning.md ---
+
+# Lightning
+
+![Lightning](../../.gitbook/assets/imagesLightning.bmp)
+
+| Alan               | Değer        |
+| ------------------ | ------------ |
+| **Adı**            | Lightning    |
+| **Sözü**           | Por Ort Grav |
+| **Reagents**       |              |
+| **Duration**       |              |
+| **Cast Time**      | 2.0          |
+| **Freeze Time**    |              |
+| **Gereken Mana**   | 11           |
+| **Gereken Magery** | 10.0         |
+
+
+--- Dosya: ./oyun/buyuler/cunning.md ---
+
+# Cunning
+
+![Cunning](../../.gitbook/assets/imagesCunning.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Cunning       |
+| **Sözü**           | Uus Wis       |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 1.0           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 6             |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/harm.md ---
+
+# Harm
+
+![Harm](../../.gitbook/assets/imagesHarm.bmp)
+
+| Alan               | Değer   |
+| ------------------ | ------- |
+| **Adı**            | Harm    |
+| **Sözü**           | An Mani |
+| **Reagents**       |         |
+| **Duration**       |         |
+| **Cast Time**      | 1.0     |
+| **Freeze Time**    |         |
+| **Gereken Mana**   | 6       |
+| **Gereken Magery** | 10.0    |
+
+
+--- Dosya: ./oyun/buyuler/polymorph.md ---
+
+# Polymorph
+
+![Polymorph](../../.gitbook/assets/imagesPolymorph.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Polymorph     |
+| **Sözü**           | Vas Ylem Rel  |
+| **Reagents**       |               |
+| **Duration**       | {120 240} sn. |
+| **Cast Time**      | 3.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 40            |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/incognito.md ---
+
+# Incognito
+
+![Incognito](../../.gitbook/assets/imagesIncognito.bmp)
+
+| Alan               | Değer         |
+| ------------------ | ------------- |
+| **Adı**            | Incognito     |
+| **Sözü**           | Kal In Ex     |
+| **Reagents**       |               |
+| **Duration**       | {300 480} sn. |
+| **Cast Time**      | 2.5           |
+| **Freeze Time**    |               |
+| **Gereken Mana**   | 14            |
+| **Gereken Magery** | 10.0          |
+
+
+--- Dosya: ./oyun/buyuler/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Büyüler
+
+
+
+--- Dosya: ./oyun/buyuler/dispel.md ---
+
+# Dispel
+
+![Dispel](../../.gitbook/assets/imagesDispel.bmp)
+
+| Alan               | Değer  |
+| ------------------ | ------ |
+| **Adı**            | Dispel |
+| **Sözü**           | An Ort |
+| **Reagents**       |        |
+| **Duration**       |        |
+| **Cast Time**      | 2.8    |
+| **Freeze Time**    |        |
+| **Gereken Mana**   | 20     |
+| **Gereken Magery** | 10.0   |
+
+
+--- Dosya: ./oyun/varliklar/yaratiklar/dragons.md ---
+
+# Dragons
+
+
+
+--- Dosya: ./oyun/varliklar/yaratiklar/drakes.md ---
+
+# Drakes
+
+
+
+--- Dosya: ./oyun/varliklar/yaratiklar/golem.md ---
+
+# Golem
+
+
+
+--- Dosya: ./oyun/varliklar/yaratiklar/README.md ---
+
+# Yaratıklar
+
+
+
+--- Dosya: ./oyun/varliklar/binekler/frenzied-ostard.md ---
+
+# Frenzied Ostard
+
+<figure><img src="../../../.gitbook/assets/Mob 218.gif" alt=""><figcaption></figcaption></figure>
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/kii-rin.md ---
+
+# Kii Rin
+
+
+
+
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/horse.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Horse
+
+{% columns %}
+{% column valign="middle" %}
+<figure><img src="../../../.gitbook/assets/Mob 200.gif" alt=""><figcaption><p>Horse (Tan)</p></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Horse-Gray.gif" alt=""><figcaption><p>Horse (Gray)</p></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../../../.gitbook/assets/Mob 228.gif" alt=""><figcaption><p>Horse (Light Brown)</p></figcaption></figure>
+{% endcolumn %}
+
+{% column valign="middle" %}
+<figure><img src="../../../.gitbook/assets/Horse-DK.gif" alt=""><figcaption><p>Horse (Dark Brown)</p></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+| Stat    | Min. Değer | Max. Değer |
+| ------- | ---------- | ---------- |
+| **STR** | 44         | 120        |
+| **DEX** | 36         | 55         |
+| **INT** | 6          | 10         |
+
+## Horse (Tan)
+
+| ARMOR  | 5 | 5 |
+| ------ | - | - |
+| DAMAGE | 2 | 5 |
+
+## Horse (Gray)
+
+| ARMOR  | 5 | 5 |
+| ------ | - | - |
+| DAMAGE | 3 | 6 |
+
+## Horse (Light Brown)
+
+| ARMOR  | 6 | 6 |
+| ------ | - | - |
+| DAMAGE | 4 | 7 |
+
+## Horse (Dark Brown)
+
+| ARMOR  | 8 | 8 |
+| ------ | - | - |
+| DAMAGE | 4 | 7 |
+
+
+--- Dosya: ./oyun/varliklar/binekler/mustang.md ---
+
+# Mustang
+
+
+
+
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/unicorn.md ---
+
+# Unicorn
+
+
+
+
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/nightmare.md ---
+
+# Nightmare
+
+
+
+
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/silver-steed.md ---
+
+# Silver Steed
+
+
+
+
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/forest-ostard.md ---
+
+# Forest Ostard
+
+<figure><img src="../../../.gitbook/assets/Mob 219.gif" alt=""><figcaption></figcaption></figure>
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/shire.md ---
+
+# Shire
+
+
+
+
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/llama.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Llama
+
+<figure><img src="../../../.gitbook/assets/Mob 220.gif" alt=""><figcaption><p>Llama</p></figcaption></figure>
+
+#### Özellikler
+
+| Stat        | Min. Değer | Max. Değer |
+| ----------- | ---------- | ---------- |
+| **STR**     | 31         | 49         |
+| **DEX**     | 336        | 455        |
+| **INT**     | 16         | 30         |
+| **ARMOR**   | 8          | 8          |
+| **DAMAGE**  | 2          | 6          |
+| **MAXFOOD** | 64         | 64         |
+
+#### BECERİLER
+
+| Skill               | Min. Değer | Max. Değer |
+| ------------------- | ---------- | ---------- |
+| **PARRYING**        | 35.0       | 45.0       |
+| **MAGICRESISTANCE** | 15.0       | 20.0       |
+| **TACTICS**         | 19.0       | 29.0       |
+| **WRESTLING**       | 19.0       | 29.0       |
+| **TAMING**          | 35.1       | 35.1       |
+
+#### YİYEBİLECEĞİ YEMEK TÜRLERİ
+
+* Crosp
+* Fruit
+* Grain
+* Hay
+* Grass
+
+
+--- Dosya: ./oyun/varliklar/binekler/desert-ostard.md ---
+
+# Desert Ostard
+
+<figure><img src="../../../.gitbook/assets/Mob 210.gif" alt=""><figcaption></figcaption></figure>
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/binekler/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Binekler
+
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="horse.md">horse.md</a></td><td></td></tr><tr><td><a href="llama.md">llama.md</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Llama.png">Llama.png</a></td></tr><tr><td><a href="desert-ostard.md">desert-ostard.md</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Desert.png">Desert.png</a></td></tr><tr><td><a href="frenzied-ostard.md">frenzied-ostard.md</a></td><td></td></tr><tr><td><a href="forest-ostard.md">forest-ostard.md</a></td><td></td></tr><tr><td><a href="mid-ostard.md">mid-ostard.md</a></td><td></td></tr><tr><td><a href="shire.md">shire.md</a></td><td></td></tr><tr><td><a href="mustang.md">mustang.md</a></td><td></td></tr><tr><td><a href="silver-steed.md">silver-steed.md</a></td><td></td></tr><tr><td><a href="kii-rin.md">kii-rin.md</a></td><td></td></tr><tr><td><a href="unicorn.md">unicorn.md</a></td><td></td></tr><tr><td><a href="nightmare.md">nightmare.md</a></td><td></td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/varliklar/binekler/mid-ostard.md ---
+
+# Mid Ostard
+
+
+
+
+
+| Stat       | Min. Değer | Max. Değer |
+| ---------- | ---------- | ---------- |
+| **STR**    |            |            |
+| **DEX**    |            |            |
+| **INT**    |            |            |
+| **ARMOR**  |            |            |
+| **DAMAGE** |            |            |
+
+
+--- Dosya: ./oyun/varliklar/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Varlıklar
+
+
+
+--- Dosya: ./oyun/esyalar/evler.md ---
+
+---
+description: Sunucuda bulunan tüm ev çeşitler
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Evler
+
+
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Small Stone And Plaster House</strong></td><td>Fiyat: </td><td>Boyut: 7x7</td><td data-object-fit="contain" data-alt="Northern UO - Small Stone And Plaster House"><a href="../../.gitbook/assets/m_stone_and_plaster_house.png">m_stone_and_plaster_house.png</a></td></tr><tr><td><strong>Small Wooden House</strong></td><td>Fiyat: </td><td>Boyut: 7x7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_wooden_house.png">m_wooden_house.png</a></td></tr><tr><td><strong>Small Wood And Plaster House</strong></td><td>Fiyat: </td><td>Boyut: 7x7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_wood_and_plaster_house.png">m_wood_and_plaster_house.png</a></td></tr><tr><td><strong>Small Thatched Roof Cottage House</strong></td><td>Fiyat: </td><td>Boyut: 7x7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_thatched_roof_cottage.png">m_thatched_roof_cottage.png</a></td></tr><tr><td><strong>Small Brick House</strong></td><td>Fiyat: </td><td>Boyut: 7x7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_small_brick_house.png">m_small_brick_house.png</a></td></tr><tr><td><strong>Small Stone Field House</strong></td><td>Fiyat: </td><td>Boyut: 7x7</td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_field_stone_house.png">m_field_stone_house.png</a></td></tr><tr><td><strong>Small Marble Workshop</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_small_marble_workshop.png">m_small_marble_workshop.png</a></td></tr><tr><td><strong>Small Stone Workshop</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_small_stone_workshop.png">m_small_stone_workshop.png</a></td></tr><tr><td><strong>Small Stone Tower</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_small_stone_tower.png">m_small_stone_tower.png</a></td></tr><tr><td><strong>Three Room Brick House</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_brick_house.png">m_brick_house.png</a></td></tr><tr><td><strong>Large Blacksmith Patio Shop House</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_large_house_with_patio.png">m_large_house_with_patio.png</a></td></tr><tr><td><strong>Sandstone Patio House</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_sandstone_house_with_patio.png">m_sandstone_house_with_patio.png</a></td></tr><tr><td><strong>Marble Patio House</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_marble_house_with_patio.png">m_marble_house_with_patio.png</a></td></tr><tr><td><strong>Ttwo Story Log Cabin</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_two_story_log_cabin.png">m_two_story_log_cabin.png</a></td></tr><tr><td><strong>Two Story Stone And Plaster House</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_two_story_stone_and_plaster_house.png">m_two_story_stone_and_plaster_house.png</a></td></tr><tr><td>Two Story Wood And Plaster House</td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_two_story_wood_and_plaster_house.png">m_two_story_wood_and_plaster_house.png</a></td></tr><tr><td><strong>Two Story Villa</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_two_story_villa.png">m_two_story_villa.png</a></td></tr><tr><td><strong>Tower</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_tower.png">m_tower.png</a></td></tr><tr><td><strong>Keep</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_small_stone_keep.png">m_small_stone_keep.png</a></td></tr><tr><td><strong>Castle</strong></td><td>Fiyat: </td><td>Boyut: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_castle.png">m_castle.png</a></td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/esyalar/armors/chainmail/magic.md ---
+
+# Magic
+
+
+
+--- Dosya: ./oyun/esyalar/armors/chainmail/README.md ---
+
+# Chainmail
+
+
+
+--- Dosya: ./oyun/esyalar/armors/leather/magic/README.md ---
+
+# Magic
+
+
+
+--- Dosya: ./oyun/esyalar/armors/leather/magic/invulnerability-+15.md ---
+
+# Invulnerability (+15)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/leather/README.md ---
+
+# Leather
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/agapite.md ---
+
+# Agapite
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/bloodrock.md ---
+
+# Bloodrock
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/blackrock.md ---
+
+# Blackrock
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/copper.md ---
+
+# Copper
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/dullcopper.md ---
+
+# Dullcopper
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/golden.md ---
+
+# Golden
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/valorite.md ---
+
+# Valorite
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/shadow.md ---
+
+# Shadow
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/mytheril.md ---
+
+# Mytheril
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/README.md ---
+
+# Ore
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/ore/verite.md ---
+
+# Verite
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/magic/guarding-+6.md ---
+
+# Guarding (+6)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/magic/defense-+3.md ---
+
+# Defense (+3)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/magic/fortification-+12.md ---
+
+# Fortification (+12)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/magic/README.md ---
+
+# Magic
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/magic/invulnerability-+15.md ---
+
+# Invulnerability (+15)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/magic/hardening-+9.md ---
+
+# Hardening (+9)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/platemail/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Platemail
+
+
+
+--- Dosya: ./oyun/esyalar/armors/studded/magic/README.md ---
+
+# Magic
+
+
+
+--- Dosya: ./oyun/esyalar/armors/studded/magic/invulnerability-+15.md ---
+
+# Invulnerability (+15)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/studded/README.md ---
+
+# Studded
+
+
+
+--- Dosya: ./oyun/esyalar/armors/phoenix.md ---
+
+# Phoenix
+
+
+
+--- Dosya: ./oyun/esyalar/armors/ranger.md ---
+
+# Ranger
+
+
+
+--- Dosya: ./oyun/esyalar/armors/bone.md ---
+
+# Bone
+
+
+
+--- Dosya: ./oyun/esyalar/armors/ringmail/magic/guarding-+6.md ---
+
+# Guarding (+6)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/ringmail/magic/defense-+3.md ---
+
+# Defense (+3)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/ringmail/magic/fortification-+12.md ---
+
+# Fortification (+12)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/ringmail/magic/README.md ---
+
+# Magic
+
+
+
+--- Dosya: ./oyun/esyalar/armors/ringmail/magic/invulnerability-+15.md ---
+
+# Invulnerability (+15)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/ringmail/magic/hardening-+9.md ---
+
+# Hardening (+9)
+
+
+
+--- Dosya: ./oyun/esyalar/armors/ringmail/README.md ---
+
+# Ringmail
+
+
+
+--- Dosya: ./oyun/esyalar/armors/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Armors
+
+
+
+--- Dosya: ./oyun/esyalar/clothes.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Clothes
+
+
+
+--- Dosya: ./oyun/esyalar/reward-barrel.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Reward Barrel
+
+<figure><img src="../../.gitbook/assets/image (36).png" alt="Northern UO - Reward Barrel Eşyası"><figcaption><p>Reward Barrel Eşyası</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (37).png" alt="Northern UO - Reward Barrel Menüsü"><figcaption><p>Reward Barrel Menüsü</p></figcaption></figure>
+
+{% hint style="info" %}
+Menüdeki eşyaları almak için gerekli bilet miktarları ve çöpe attığınız eşyaların verdiği bilet miktarları değişkenlik gösterebilir.
+{% endhint %}
+
+
+--- Dosya: ./oyun/esyalar/gemiler.md ---
+
+---
+description: Sunucuda bulunan tüm gemi çeşitler
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Gemiler
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Small Ship (N)</strong></td><td>Fiyat: </td><td>Boyut:</td><td>Hız: 1 saniyede 1 kare</td><td>Fiyatı: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_small_ship_n.jpg">m_small_ship_n.jpg</a></td></tr><tr><td><strong>Small Dragon Ship (N)</strong></td><td>Fiyat:</td><td>Boyut:</td><td>Hız: 1 saniyede 1 kare</td><td>Fiyatı: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_small_dragon_ship_n.jpg">m_small_dragon_ship_n.jpg</a></td></tr><tr><td><strong>Medium Ship (N)</strong></td><td>Fiyat:</td><td>Boyut:</td><td>Hız: 1 saniyede 1 kare</td><td>Fiyatı: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_medium_ship_n.jpg">m_medium_ship_n.jpg</a></td></tr><tr><td><strong>Medium Dragon Ship (N)</strong></td><td>Fiyat:</td><td>Boyut:</td><td>Hız: 1 saniyede 1 kare</td><td>Fiyatı: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_medium_dragon_ship_n.jpg">m_medium_dragon_ship_n.jpg</a></td></tr><tr><td><strong>Large Ship (N)</strong></td><td>Fiyat:</td><td>Boyut:</td><td>Hız: 1 saniyede 1 kare</td><td>Fiyatı: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_large_ship_n.jpg">m_large_ship_n.jpg</a></td></tr><tr><td><strong>Large Dragon Ship (N)</strong></td><td>Fiyat:</td><td>Boyut:</td><td>Hız: 1 saniyede 1 kare</td><td>Fiyatı: </td><td data-object-fit="contain"><a href="../../.gitbook/assets/m_large_dragon_ship_n.jpg">m_large_dragon_ship_n.jpg</a></td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/esyalar/weapons/mace.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Mace
+
+<table><thead><tr><th width="99">Görsel</th><th width="135">Adı</th><th>Skill</th><th width="97">Ağırlık</th><th width="93">Fiyat</th><th>Üretim</th><th>Min. Str</th><th>Çift El</th><th>Range</th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/imagesweapons0x1438.png" alt=""></td><td>War Hammer</td><td>Macefighting</td><td>10.0 kg</td><td>163 gp</td><td>16 Iron Ingot</td><td>40</td><td>Evet</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x1406.png" alt=""></td><td>Warmace</td><td>Macefighting</td><td>8.0 kg</td><td>138 gp</td><td>14 Iron Ingot</td><td>30</td><td>Hayır</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13B3.png" alt=""></td><td>Club</td><td>Macefighting</td><td>7.5 kg</td><td>16 gp</td><td>4 Log</td><td>10</td><td>Hayır</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x143C.png" alt=""></td><td>Hammerpick</td><td>Macefighting</td><td>10.0 kg</td><td>87 gp</td><td>8 Iron Ingot, 1 Log </td><td>35</td><td>Hayır</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x143A.png" alt=""></td><td>Maul</td><td>Macefighting</td><td>10.0 kg</td><td>98 gp</td><td>10 Iron Ingot</td><td>20</td><td>Hayır</td><td>0-1</td></tr><tr><td></td><td>Mace</td><td>Macefighting</td><td>10.0 kg</td><td>64 gp</td><td>6 Iron Ingot</td><td>20</td><td>Hayır</td><td>0-1</td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/esyalar/weapons/axe.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Axe
+
+<table><thead><tr><th width="134">Görsel</th><th width="163">Adı</th><th width="159">Skill</th><th width="96">Ağırlık</th><th width="92">Fiyat</th><th>Üretim</th><th>Min. Str</th><th>Çift El</th><th>Range</th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13FA.png" alt=""></td><td>Large Battle Axe</td><td>Swordsmanship</td><td>8.0 kg</td><td>138 gp</td><td>20 Iron Ingot</td><td>45</td><td>Evet</td><td>0-1</td></tr><tr><td></td><td>Double Axe</td><td>Swordsmanship</td><td>8.0 kg</td><td>124 gp</td><td>12 Iron Ingot</td><td>45</td><td>Evet</td><td>0-1</td></tr><tr><td></td><td>Axe</td><td>Swordsmanship</td><td>7.0 kg</td><td>147 gp</td><td>14 Iron Ingot</td><td>35</td><td>Evet</td><td>0-1</td></tr><tr><td></td><td>Battle Axe</td><td>Swordsmanship</td><td>8.0 kg</td><td>141 gp</td><td>14 Iron Ingot</td><td>40</td><td>Evet</td><td>0-1</td></tr><tr><td></td><td>Executioner's Axe</td><td>Swordsmanship</td><td>7.0 kg</td><td>163 gp</td><td>16 Iron Ingot</td><td>35</td><td>Evet</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x1442.png" alt=""></td><td>Two Handed Axe</td><td>Swordsmanship</td><td>10.0 kg</td><td>161 gp</td><td>16 Iron Ingot</td><td>40</td><td>Evet</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13AF.png" alt=""></td><td>War Axe</td><td>Macefighting</td><td>6.0 kg</td><td>171 gp</td><td>16 Iron Ingot</td><td>35</td><td>Hayır</td><td>0-1</td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/esyalar/weapons/fence.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Fence
+
+<table><thead><tr><th width="141">Görsel</th><th>Adı</th><th>Skill</th><th width="96">Ağırlık</th><th width="99">Fiyat</th><th>Üretim</th><th>Min. Str</th><th>Çift El</th><th>Range</th><th data-type="image"></th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/imagesweapons0x0E88.png" alt=""></td><td>Pitchfork</td><td>Fencing</td><td>8.0 kg</td><td>48 gp</td><td>5 Iron Ingot</td><td>15</td><td>Evet</td><td>0-1</td><td></td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x1404.png" alt=""></td><td>Warfork</td><td>Fencing</td><td>6.0 kg</td><td>78 gp</td><td>12 Iron Ingot</td><td>35</td><td>Hayır</td><td>0-1</td><td></td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x1402.png" alt=""></td><td>Short Spear</td><td>Fencing</td><td>4.0 kg</td><td>100 gp</td><td>6 Iron Ingot</td><td>15</td><td>Evet</td><td>0-1</td><td></td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x1400.png" alt=""></td><td>Kryss</td><td>Fencing</td><td>4.2 kg</td><td>103 gp</td><td>8 Iron Ingot</td><td>10</td><td>Hayır</td><td>0-1</td><td></td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x0F63.png" alt=""></td><td>Spear</td><td>Fencing</td><td>6.5 kg</td><td>154 gp</td><td>12 Iron Ingot</td><td>30</td><td>Evet</td><td>0-1</td><td></td></tr></tbody></table>
+
+
+
+--- Dosya: ./oyun/esyalar/weapons/sword.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Sword
+
+<table><thead><tr><th width="145">Görsel</th><th width="147">Adı</th><th width="153">Skill</th><th width="91">Ağırlık</th><th width="94">Fiyat</th><th>Üretim</th><th>Min. Str</th><th>Çift El</th><th>Range</th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13FE.png" alt=""></td><td>Katana</td><td>Swordsmanship</td><td>4.0 kg</td><td>114 gp</td><td>8 Iron Ingot</td><td>10</td><td>Hayır</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x0F60.png" alt=""></td><td>Longsword</td><td>Swordsmanship</td><td>7.0 kg</td><td>122 gp</td><td>12 Iron Ingot</td><td>25</td><td>Hayır</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13B5.png" alt=""></td><td>Scimitar</td><td>Swordsmanship</td><td>6.7 kg</td><td>111 gp</td><td>10 Iron Ingot</td><td>10</td><td>Hayır</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13BA.png" alt=""></td><td>Viking Sword</td><td>Swordsmanship</td><td>8.0 kg</td><td>132 gp</td><td>14 Iron Ingot</td><td>40</td><td>Hayır</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x143E.png" alt=""></td><td>Halberd</td><td>Swordsmanship</td><td>11.2 kg</td><td>203 gp</td><td>20 Iron Ingot</td><td>45</td><td>Evet</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x1440.png" alt=""></td><td>Cutlass</td><td>Swordsmanship</td><td>5.0 kg</td><td>84 gp</td><td>8 Iron Ingot</td><td>25</td><td>Hayır</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x0F4E.png" alt=""></td><td>Bardiche</td><td>Swordsmanship</td><td>9.5 kg</td><td>175 gp</td><td>18 Iron Ingot</td><td>40</td><td>Evet</td><td>0-1</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x0F5F.png" alt=""></td><td>Broadsword</td><td>Swordsmanship</td><td>6.0 kg</td><td>117 gp</td><td>10 Iron Ingot</td><td>25</td><td>Hayır</td><td>0-1</td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/esyalar/weapons/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Weapons
+
+
+
+--- Dosya: ./oyun/esyalar/weapons/bow.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Bow
+
+<table><thead><tr><th>Görsel</th><th width="244">Adı</th><th width="123">Skill</th><th width="104">Ağırlık</th><th width="109">Fiyat</th><th>Üretim</th><th>Min. Str</th><th>Çift El</th><th>Range</th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13B1.png" alt=""></td><td>Elven Bow</td><td>Archery</td><td>5.0 kg</td><td>218 gp</td><td>20 Log</td><td>30</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13B1.png" alt=""></td><td>Bow</td><td>Archery</td><td>12.5 kg</td><td>30 gp</td><td>7 Log</td><td>20</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13B1.png" alt=""></td><td>Exceptional Bow</td><td>Archery</td><td>10.5 kg</td><td>126 gp</td><td>9 Log</td><td>30</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13B1.png" alt=""></td><td>Superior Bow</td><td>Archery</td><td>8.5 kg</td><td>35 gp</td><td>8 Log</td><td>30</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x0F50.png" alt=""></td><td>Crossbow</td><td>Archery</td><td>12.0 kg</td><td>120 gp</td><td>7 Log</td><td>30</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x0F50.png" alt=""></td><td>Exceptional Crossbow</td><td>Archery</td><td>11.0 kg</td><td>161 gp</td><td>10 Log</td><td>30</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x0F50.png" alt=""></td><td>Superior Crossbow</td><td>Archery</td><td>9.0 kg</td><td>100 gp</td><td>8 Log</td><td>30</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13FC.png" alt=""></td><td>Heavy Crossbow</td><td>Archery</td><td>20.0 kg</td><td>150 gp</td><td>10 Log</td><td>40</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13FC.png" alt=""></td><td>Exceptional Heavycrossbow</td><td>Archery</td><td>13.0 kg</td><td>198 gp</td><td>13 Log</td><td>30</td><td>Evet</td><td>2-15</td></tr><tr><td><img src="../../../.gitbook/assets/imagesweapons0x13FC.png" alt=""></td><td>Superior Heavycrossbow</td><td>Archery</td><td>11.0 kg</td><td>92 gp</td><td>11 Log</td><td>30</td><td>Evet</td><td>2-15</td></tr></tbody></table>
+
+
+--- Dosya: ./oyun/esyalar/cesitli/house-interior-decorator.md ---
+
+# House Interior Decorator
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Interior Decorator Eşyası</p></figcaption></figure>
+
+
+--- Dosya: ./oyun/esyalar/cesitli/special-fishing-net.md ---
+
+---
+description: Balık Ağı
+---
+
+# Special Fishing Net
+
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Special Fishing Net Eşyası</p></figcaption></figure>
+
+Balık ağı olarak da bilinen eşyayı sadece gemi içinde kullanabilirsiniz. Ağ atıp belirli miktarda balık tutmanızı sağlar.
+
+
+
+--- Dosya: ./oyun/esyalar/cesitli/runebook.md ---
+
+# Runebook
+
+## Runebook
+
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Runebook Eşyası</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption><p>Runebok Menüsü</p></figcaption></figure>
+
+
+
+**Üretim için gereken malzemeler;**
+
+16 Blank Scroll ve 4 Recall Scroll
+
+**Üretim için gereken beceriler;**
+
+70.0 Magery ve 60.0 Inscription
+
+{% hint style="info" %}
+Runebook çoğaltma sistemi yoktur.
+{% endhint %}
+
+Runebooka sayfa eklemek ekstra scroll ile mümkündür. Scroll ile runebooka ekstra sayfa eklenmektedir.&#x20;
+
+
+
+## Runebook Bağlama / Linker
+
+
+
+
+
+## Runebook AddOn (Extra page)
+
+
+
+--- Dosya: ./oyun/esyalar/cesitli/oil-cloth.md ---
+
+# Oil Cloth
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Oil Cloth Eşyası</p></figcaption></figure>
+
+Silahların zehirlerini temizlenmesini sağlayan bir eşyadır.
+
+
+
+{% hint style="warning" %}
+Eskiden olduğu gibi silahın zehrini silmek için kendi çantanızda/yanınızda olma zorunluluğu yoktur, başka varlıkların üzerinde silahların da zehri silinebilir.
+{% endhint %}
+
+## Üretim için gerekenler;
+
+74.6 Tailoring
+
+Sewing kit
+
+1 Cloth
+
+
+--- Dosya: ./oyun/esyalar/cesitli/check.md ---
+
+# Check
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Check Eşyası</p></figcaption></figure>
+
+
+--- Dosya: ./oyun/esyalar/cesitli/keg-potion.md ---
+
+# Keg potion
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Potion Keg Eşyası</p></figcaption></figure>
+
+
+
+--- Dosya: ./oyun/esyalar/cesitli/disgue.md ---
+
+---
+description: Kimlik gizleme sistemi
+---
+
+# Disgue
+
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Disgue Deed Eşyası</p></figcaption></figure>
+
+## İsim
+
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+##
+
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+## Title
+
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Notoriety
+
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Style
+
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+## Body
+
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+## Kayıtlı Kimlikler
+
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+
+--- Dosya: ./oyun/esyalar/cesitli/ship-and-house-finder.md ---
+
+# Ship & House Finder
+
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Ship &#x26; House Finder Eşyası</p></figcaption></figure>
+
+Ev veya geminizin yerini kaybettiğinizde kolayca bulmanızı sağlayan eşyadır.
+
+
+
+--- Dosya: ./oyun/esyalar/cesitli/odul-bileti-young-deed.md ---
+
+---
+description: Yeni oyuncu ödül bileti
+---
+
+# Odul Bileti (Young Deed)
+
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Ödül Bileti Eşyası</p></figcaption></figure>
+
+
+
+Yeni başlayan oyunculara verilen eşyadır.
+
+
+
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Ödül Bileti Menüsü</p></figcaption></figure>
+
+
+
+--- Dosya: ./oyun/esyalar/cesitli/trapped-pouch.md ---
+
+# Trapped Pouch
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Trapped Pouch Eşyası</p></figcaption></figure>
+
+
+
+--- Dosya: ./oyun/esyalar/cesitli/reputation-crystal.md ---
+
+# Reputation Crystal
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Reputation Crystal Eşyası</p></figcaption></figure>
+
+Karakterinizin Karma, Fame, Kills, Deaths bilgilerini görmenizi sağlayan eşyadır.
+
+Tek kullanımlıktır.
+
+
+
+--- Dosya: ./oyun/esyalar/cesitli/README.md ---
+
+# Çeşitli
+
+
+
+--- Dosya: ./oyun/esyalar/cesitli/re-styling-deed.md ---
+
+# Re-Styling Deed
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Re-styling Deed Eşyası</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Fiyatlar değişkenlik gösterebilir.
+{% endhint %}
+
+## Saç Stilleri
+
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+## Sakal Stilleri
+
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+## Normal Saç & Sakal Boyası
+
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+## Parlak Saç & Sakal Boyası
+
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Normal Sadece Saç Boyası
+
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+## Normal Sadece Sakal Boyası
+
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Parlak Sadece Saç Boyası
+
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Parlak Sadece Sakal Boyası
+
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+## Ten Rengi Boyası
+
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+## Cinsiyet Değişimi
+
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+
+--- Dosya: ./oyun/esyalar/cesitli/dyes.md ---
+
+---
+description: Sunucudaki tüm özel boya çeşitleri
+---
+
+# Dyes
+
+## Rare Dye
+
+
+
+## Black Dye
+
+
+
+## Leather Dye
+
+
+
+## Furniture Dye
+
+
+--- Dosya: ./oyun/esyalar/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Eşyalar
+
+
+
+--- Dosya: ./oyun/cesitli/skilldusur.md ---
+
+---
+description: .skilldusur
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Skilldüşür
+
+<figure><img src="../../.gitbook/assets/skilldusur.png" alt=""><figcaption></figcaption></figure>
+
+
+--- Dosya: ./oyun/cesitli/mekanikler.md ---
+
+# Mekanikler
+
+## **Skills**
+
+
+
+### **Craft**
+
+
+
+### **Combat**
+
+
+
+
+
+### **Magic**
+
+
+
+--- Dosya: ./oyun/cesitli/teaching.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Teaching
+
+_**Teach**_ işlemleri eski usül vendorlardan yapılmaktadır. Teach yapacağınız becerinin seviyesi tamamen o vendorun o becerisinin seviyesi ile alakalıdır. Örneğin
+
+
+
+Alchemy teachletmek istiyorsunuz ve Alchemist vendoruna gidip Teach Alchemy yazdınız. Vendor sizden belirli bir ücret ister örneğin 166 gp, Bu miktar aynı zamanda o vendorun size öğretebileceği beceri seviyesidir. 166 gp vendorun üzerine bıraktığınızda Alchemy becerinizi 16.6 oranında öğrenmiş olacaksınız.
+
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption><p>Direkt Teach</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Teach-DLG1.png" alt=""><figcaption><p>Teach Bilgi ekranı</p></figcaption></figure>
+
+#### Teacher
+
+Ayrıca şehirlerde bulunan Teacher vendorlarından tüm becerileri teach yapabilirsiniz. Bu vendorlar da direkt olarak 30.0 sabit bir oranda beceri öğretme zorunluluğu _<mark style="color:red;">**YOKTUR**</mark>_. Bu vendorlarda da beceri seviyeleri değişkenlik göstermektedir. Teacher vendorunun tek amacı sadece tüm becerileri bir arada toplamaktır.
+
+<figure><img src="../../.gitbook/assets/Teach-DLG-2.png" alt=""><figcaption></figcaption></figure>
+
+
+--- Dosya: ./oyun/cesitli/selling.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Selling
+
+_**Sell**_ işlemleri eski usül vendorlardan yapılmaktadır. Her eşyayı satın alan bir veya birden fazla vendor vardır. Örneğin bir Armorar vendoruna Scroll satamaz veya bir Tailor vendoruna Reagent satılamaz. Her vendorun satın alabileceği eşyalar bellidir. Oyun içerisinde hangi vendorların hangi eşyaları satın alabileceği bilgilendirmesi yapılmaktadır.
+
+
+
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+
+
+--- Dosya: ./oyun/cesitli/stat.md ---
+
+---
+description: .stat
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Stat
+
+<figure><img src="../../.gitbook/assets/Stat.png" alt=""><figcaption></figcaption></figure>
+
+
+
+--- Dosya: ./oyun/cesitli/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Çeşitli
+
+
+
+--- Dosya: ./web/giris.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Giriş
+
+
+
+--- Dosya: ./web/kullanici/hesap.md ---
+
+---
+description: Kullanıcı içindeki Oyun Hesabı
+---
+
+# Hesap
+
+
+
+--- Dosya: ./web/kullanici/README.md ---
+
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Kullanıcı
+
+## Kayıt&#x20;
+
+
+
+
+
+## Giriş
+
+
+
+
+
+## Kullanıcınız
+
+
+
+--- Dosya: ./SUMMARY.md ---
+
+# Table of contents
+
+## Giriş
+
+* [Genel Bilgiler](README.md)
+* [S.S.S](giris/s.s.s.md)
+* [Patches](giris/patches.md)
+* [Kurallar](giris/kurallar.md)
+
+## Oyun
+
+* [Başlangıç](oyun/baslangic/README.md)
+  * [Sunucuda Olmayanlar](oyun/baslangic/sunucuda-olmayanlar.md)
+* [Sistemler](oyun/sistemler/README.md)
+  * [Bonuslar](oyun/sistemler/bonuslar.md)
+  * [Etkinlik](oyun/sistemler/etkinlik.md)
+  * [Crafting](oyun/sistemler/crafting.md)
+  * [Komutlar](oyun/sistemler/komutlar/README.md)
+    * [Genel Komutlar](oyun/sistemler/komutlar/genel-komutlar.md)
+    * [Ev Komutları](oyun/sistemler/komutlar/ev-komutlari.md)
+    * [Gemi Komutları](oyun/sistemler/komutlar/gemi-komutlari.md)
+  * [Çeşitli](oyun/sistemler/cesitli/README.md)
+    * [Guild](oyun/sistemler/cesitli/guild.md)
+    * [Aile](oyun/sistemler/cesitli/aile.md)
+    * [İhbar](oyun/sistemler/cesitli/ihbar.md)
+    * [Pin](oyun/sistemler/cesitli/pin.md)
+* [Eşyalar](oyun/esyalar/README.md)
+  * [Reward Barrel](oyun/esyalar/reward-barrel.md)
+  * [Evler](oyun/esyalar/evler.md)
+  * [Gemiler](oyun/esyalar/gemiler.md)
+  * [Armors](oyun/esyalar/armors/README.md)
+    * [Platemail](oyun/esyalar/armors/platemail/README.md)
+      * [Magic](oyun/esyalar/armors/platemail/magic/README.md)
+        * [Defense (+3)](oyun/esyalar/armors/platemail/magic/defense-+3.md)
+        * [Guarding (+6)](oyun/esyalar/armors/platemail/magic/guarding-+6.md)
+        * [Hardening (+9)](oyun/esyalar/armors/platemail/magic/hardening-+9.md)
+        * [Fortification (+12)](oyun/esyalar/armors/platemail/magic/fortification-+12.md)
+        * [Invulnerability (+15)](oyun/esyalar/armors/platemail/magic/invulnerability-+15.md)
+      * [Ore](oyun/esyalar/armors/platemail/ore/README.md)
+        * [Copper](oyun/esyalar/armors/platemail/ore/copper.md)
+        * [Dullcopper](oyun/esyalar/armors/platemail/ore/dullcopper.md)
+        * [Golden](oyun/esyalar/armors/platemail/ore/golden.md)
+        * [Shadow](oyun/esyalar/armors/platemail/ore/shadow.md)
+        * [Agapite](oyun/esyalar/armors/platemail/ore/agapite.md)
+        * [Verite](oyun/esyalar/armors/platemail/ore/verite.md)
+        * [Mytheril](oyun/esyalar/armors/platemail/ore/mytheril.md)
+        * [Valorite](oyun/esyalar/armors/platemail/ore/valorite.md)
+        * [Bloodrock](oyun/esyalar/armors/platemail/ore/bloodrock.md)
+        * [Blackrock](oyun/esyalar/armors/platemail/ore/blackrock.md)
+    * [Chainmail](oyun/esyalar/armors/chainmail/README.md)
+      * [Magic](oyun/esyalar/armors/chainmail/magic.md)
+    * [Ringmail](oyun/esyalar/armors/ringmail/README.md)
+      * [Magic](oyun/esyalar/armors/ringmail/magic/README.md)
+        * [Defense (+3)](oyun/esyalar/armors/ringmail/magic/defense-+3.md)
+        * [Guarding (+6)](oyun/esyalar/armors/ringmail/magic/guarding-+6.md)
+        * [Hardening (+9)](oyun/esyalar/armors/ringmail/magic/hardening-+9.md)
+        * [Fortification (+12)](oyun/esyalar/armors/ringmail/magic/fortification-+12.md)
+        * [Invulnerability (+15)](oyun/esyalar/armors/ringmail/magic/invulnerability-+15.md)
+    * [Leather](oyun/esyalar/armors/leather/README.md)
+      * [Magic](oyun/esyalar/armors/leather/magic/README.md)
+        * [Invulnerability (+15)](oyun/esyalar/armors/leather/magic/invulnerability-+15.md)
+    * [Studded](oyun/esyalar/armors/studded/README.md)
+      * [Magic](oyun/esyalar/armors/studded/magic/README.md)
+        * [Invulnerability (+15)](oyun/esyalar/armors/studded/magic/invulnerability-+15.md)
+    * [Bone](oyun/esyalar/armors/bone.md)
+    * [Ranger](oyun/esyalar/armors/ranger.md)
+    * [Phoenix](oyun/esyalar/armors/phoenix.md)
+  * [Clothes](oyun/esyalar/clothes.md)
+  * [Çeşitli](oyun/esyalar/cesitli/README.md)
+    * [Runebook](oyun/esyalar/cesitli/runebook.md)
+    * [Keg potion](oyun/esyalar/cesitli/keg-potion.md)
+    * [Oil Cloth](oyun/esyalar/cesitli/oil-cloth.md)
+    * [Trapped Pouch](oyun/esyalar/cesitli/trapped-pouch.md)
+    * [Check](oyun/esyalar/cesitli/check.md)
+    * [House Interior Decorator](oyun/esyalar/cesitli/house-interior-decorator.md)
+    * [Reputation Crystal](oyun/esyalar/cesitli/reputation-crystal.md)
+    * [Re-Styling Deed](oyun/esyalar/cesitli/re-styling-deed.md)
+    * [Odul Bileti (Young Deed)](oyun/esyalar/cesitli/odul-bileti-young-deed.md)
+    * [Special Fishing Net](oyun/esyalar/cesitli/special-fishing-net.md)
+    * [Ship & House Finder](oyun/esyalar/cesitli/ship-and-house-finder.md)
+    * [Disgue](oyun/esyalar/cesitli/disgue.md)
+    * [Dyes](oyun/esyalar/cesitli/dyes.md)
+  * [Weapons](oyun/esyalar/weapons/README.md)
+    * [Axe](oyun/esyalar/weapons/axe.md)
+    * [Sword](oyun/esyalar/weapons/sword.md)
+    * [Mace](oyun/esyalar/weapons/mace.md)
+    * [Fence](oyun/esyalar/weapons/fence.md)
+    * [Bow](oyun/esyalar/weapons/bow.md)
+* [Varlıklar](oyun/varliklar/README.md)
+  * [Binekler](oyun/varliklar/binekler/README.md)
+    * [Horse](oyun/varliklar/binekler/horse.md)
+    * [Llama](oyun/varliklar/binekler/llama.md)
+    * [Desert Ostard](oyun/varliklar/binekler/desert-ostard.md)
+    * [Frenzied Ostard](oyun/varliklar/binekler/frenzied-ostard.md)
+    * [Forest Ostard](oyun/varliklar/binekler/forest-ostard.md)
+    * [Mid Ostard](oyun/varliklar/binekler/mid-ostard.md)
+    * [Shire](oyun/varliklar/binekler/shire.md)
+    * [Mustang](oyun/varliklar/binekler/mustang.md)
+    * [Silver Steed](oyun/varliklar/binekler/silver-steed.md)
+    * [Kii Rin](oyun/varliklar/binekler/kii-rin.md)
+    * [Unicorn](oyun/varliklar/binekler/unicorn.md)
+    * [Nightmare](oyun/varliklar/binekler/nightmare.md)
+  * [Yaratıklar](oyun/varliklar/yaratiklar/README.md)
+    * [Golem](oyun/varliklar/yaratiklar/golem.md)
+    * [Dragons](oyun/varliklar/yaratiklar/dragons.md)
+    * [Drakes](oyun/varliklar/yaratiklar/drakes.md)
+* [World](oyun/world/README.md)
+  * [Felucca](oyun/world/felucca/README.md)
+    * [Şehirler](oyun/world/felucca/sehirler/README.md)
+      * [Britain](oyun/world/felucca/sehirler/britain.md)
+    * [Zindanlar](oyun/world/felucca/zindanlar.md)
+    * [Mezarlıklar](oyun/world/felucca/mezarliklar/README.md)
+      * [Britain Graveyard](oyun/world/felucca/mezarliklar/britain-graveyard.md)
+      * [Yew Graveyard](oyun/world/felucca/mezarliklar/yew-graveyard.md)
+      * [Cove Graveyard](oyun/world/felucca/mezarliklar/cove-graveyard.md)
+      * [Vesper Graveyard](oyun/world/felucca/mezarliklar/vesper-graveyard.md)
+      * [Nujel'm Graveyard](oyun/world/felucca/mezarliklar/nujelm-graveyard.md)
+      * [Moonglow Graveyard](oyun/world/felucca/mezarliklar/moonglow-graveyard.md)
+      * [Jhelom Graveyard](oyun/world/felucca/mezarliklar/jhelom-graveyard.md)
+    * [Mabedler](oyun/world/felucca/mabedler.md)
+  * [Trammel](oyun/world/trammel.md)
+* [Çeşitli](oyun/cesitli/README.md)
+  * [Teaching](oyun/cesitli/teaching.md)
+  * [Selling](oyun/cesitli/selling.md)
+  * [Skilldüşür](oyun/cesitli/skilldusur.md)
+  * [Stat](oyun/cesitli/stat.md)
+  * [Mekanikler](oyun/cesitli/mekanikler.md)
+* [Büyüler](oyun/buyuler/README.md)
+  * [ArchProtection](oyun/buyuler/archprotection.md)
+  * [AirElemental](oyun/buyuler/airelemental.md)
+  * [ArchCure](oyun/buyuler/archcure.md)
+  * [ChainLightning](oyun/buyuler/chainlightning.md)
+  * [Bless](oyun/buyuler/bless.md)
+  * [BladeSpirit](oyun/buyuler/bladespirit.md)
+  * [Cunning](oyun/buyuler/cunning.md)
+  * [CreateFood](oyun/buyuler/createfood.md)
+  * [Clumsy](oyun/buyuler/clumsy.md)
+  * [Cure](oyun/buyuler/cure.md)
+  * [Daemon](oyun/buyuler/daemon.md)
+  * [Curse](oyun/buyuler/curse.md)
+  * [Dispel](oyun/buyuler/dispel.md)
+  * [Earthquake](oyun/buyuler/earthquake.md)
+  * [EarthElemental](oyun/buyuler/earthelemental.md)
+  * [DispelField](oyun/buyuler/dispelfield.md)
+  * [EnergyBolt](oyun/buyuler/energybolt.md)
+  * [EnergyField](oyun/buyuler/energyfield.md)
+  * [EnergyVortex](oyun/buyuler/energyvortex.md)
+  * [Explosion](oyun/buyuler/explosion.md)
+  * [FireElemental](oyun/buyuler/fireelemental.md)
+  * [Feeblemind](oyun/buyuler/feeblemind.md)
+  * [Fireball](oyun/buyuler/fireball.md)
+  * [FlameStrike](oyun/buyuler/flamestrike.md)
+  * [GateTravel](oyun/buyuler/gatetravel.md)
+  * [FireField](oyun/buyuler/firefield.md)
+  * [GreaterHeal](oyun/buyuler/greaterheal.md)
+  * [Harm](oyun/buyuler/harm.md)
+  * [Heal](oyun/buyuler/heal.md)
+  * [Incognito](oyun/buyuler/incognito.md)
+  * [MagicArrow](oyun/buyuler/magicarrow.md)
+  * [Lightning](oyun/buyuler/lightning.md)
+  * [Invisibility](oyun/buyuler/invisibility.md)
+  * [MagicReflect](oyun/buyuler/magicreflect.md)
+  * [MagicLock](oyun/buyuler/magiclock.md)
+  * [MagicTrap](oyun/buyuler/magictrap.md)
+  * [ManaDrain](oyun/buyuler/manadrain.md)
+  * [MagicUntrap](oyun/buyuler/magicuntrap.md)
+  * [ManaVampire](oyun/buyuler/manavampire.md)
+  * [Mark](oyun/buyuler/mark.md)
+  * [MassDispel](oyun/buyuler/massdispel.md)
+  * [MeteorSwarm](oyun/buyuler/meteorswarm.md)
+  * [MassCurse](oyun/buyuler/masscurse.md)
+  * [NightSight](oyun/buyuler/nightsight.md)
+  * [MindBlast](oyun/buyuler/mindblast.md)
+  * [Paralyze](oyun/buyuler/paralyze.md)
+  * [Poison](oyun/buyuler/poison.md)
+  * [ParalyzeField](oyun/buyuler/paralyzefield.md)
+  * [PoisonField](oyun/buyuler/poisonfield.md)
+  * [Polymorph](oyun/buyuler/polymorph.md)
+  * [ReactiveArmor](oyun/buyuler/reactivearmor.md)
+  * [Recall](oyun/buyuler/recall.md)
+  * [Protection](oyun/buyuler/protection.md)
+  * [Reveal](oyun/buyuler/reveal.md)
+  * [Strength](oyun/buyuler/strength.md)
+  * [Resurrection](oyun/buyuler/resurrection.md)
+  * [Summon](oyun/buyuler/summon.md)
+  * [Telekinesis](oyun/buyuler/telekinesis.md)
+  * [SUMMARY](oyun/buyuler/summary.md)
+  * [Teleport](oyun/buyuler/teleport.md)
+  * [Unlock](oyun/buyuler/unlock.md)
+  * [WallofStone](oyun/buyuler/wallofstone.md)
+  * [WaterElemental](oyun/buyuler/waterelemental.md)
+  * [Agility](oyun/buyuler/agility.md)
+  * [Weaken](oyun/buyuler/weaken.md)
+* [Beceriler](oyun/beceriler/README.md)
+  * [Camping](oyun/beceriler/camping.md)
+  * [Bowcraft](oyun/beceriler/bowcraft.md)
+  * [Bushido](oyun/beceriler/bushido.md)
+  * [Chivalry](oyun/beceriler/chivalry.md)
+  * [Cartography](oyun/beceriler/cartography.md)
+  * [Carpentry](oyun/beceriler/carpentry.md)
+  * [Enticement](oyun/beceriler/enticement.md)
+  * [Cooking](oyun/beceriler/cooking.md)
+  * [DetectingHidden](oyun/beceriler/detectinghidden.md)
+  * [EvaluatingIntel](oyun/beceriler/evaluatingintel.md)
+  * [Fishing](oyun/beceriler/fishing.md)
+  * [Fencing](oyun/beceriler/fencing.md)
+  * [Focus](oyun/beceriler/focus.md)
+  * [Glassblow](oyun/beceriler/glassblow.md)
+  * [Healing](oyun/beceriler/healing.md)
+  * [Forensics](oyun/beceriler/forensics.md)
+  * [Hiding](oyun/beceriler/hiding.md)
+  * [Imbuing](oyun/beceriler/imbuing.md)
+  * [Herding](oyun/beceriler/herding.md)
+  * [Inscription](oyun/beceriler/inscription.md)
+  * [ItemID](oyun/beceriler/itemid.md)
+  * [Lumberjacking](oyun/beceriler/lumberjacking.md)
+  * [Lockpicking](oyun/beceriler/lockpicking.md)
+  * [Macefighting](oyun/beceriler/macefighting.md)
+  * [MagicResistance](oyun/beceriler/magicresistance.md)
+  * [Magery](oyun/beceriler/magery.md)
+  * [Meditation](oyun/beceriler/meditation.md)
+  * [Mining](oyun/beceriler/mining.md)
+  * [Musicianship](oyun/beceriler/musicianship.md)
+  * [Mysticism](oyun/beceriler/mysticism.md)
+  * [Ninjitsu](oyun/beceriler/ninjitsu.md)
+  * [Necromancy](oyun/beceriler/necromancy.md)
+  * [Parrying](oyun/beceriler/parrying.md)
+  * [Peacemaking](oyun/beceriler/peacemaking.md)
+  * [Poisoning](oyun/beceriler/poisoning.md)
+  * [Provocation](oyun/beceriler/provocation.md)
+  * [Spellweaving](oyun/beceriler/spellweaving.md)
+  * [Snooping](oyun/beceriler/snooping.md)
+  * [RemoveTrap](oyun/beceriler/removetrap.md)
+  * [SpiritSpeak](oyun/beceriler/spiritspeak.md)
+  * [StoneCraft](oyun/beceriler/stonecraft.md)
+  * [Stealth](oyun/beceriler/stealth.md)
+  * [Stealing](oyun/beceriler/stealing.md)
+  * [Swordsmanship](oyun/beceriler/swordsmanship.md)
+  * [Tactics](oyun/beceriler/tactics.md)
+  * [SUMMARY](oyun/beceriler/summary.md)
+  * [Taming](oyun/beceriler/taming.md)
+  * [TasteID](oyun/beceriler/tasteid.md)
+  * [Tailoring](oyun/beceriler/tailoring.md)
+  * [Throwing](oyun/beceriler/throwing.md)
+  * [Tracking](oyun/beceriler/tracking.md)
+  * [Tinkering](oyun/beceriler/tinkering.md)
+  * [Veterinary](oyun/beceriler/veterinary.md)
+  * [Anatomy](oyun/beceriler/anatomy.md)
+  * [Alchemy](oyun/beceriler/alchemy.md)
+  * [Wrestling](oyun/beceriler/wrestling.md)
+  * [ArmsLore](oyun/beceriler/armslore.md)
+  * [AnimalLore](oyun/beceriler/animallore.md)
+  * [Archery](oyun/beceriler/archery.md)
+  * [Begging](oyun/beceriler/begging.md)
+  * [Blacksmithing](oyun/beceriler/blacksmithing.md)
+
+## Uygulamalar
+
+* [Client](uygulamalar/client/README.md)
+  * [Başlangıç](uygulamalar/client/baslangic/README.md)
+    * [İndirme](uygulamalar/client/baslangic/indirme.md)
+    * [Yükleme](uygulamalar/client/baslangic/yukleme.md)
+    * [Giriş](uygulamalar/client/baslangic/giris.md)
+  * [Gereksinimler](uygulamalar/client/gereksinimler.md)
+  * [Hatalar](uygulamalar/client/hatalar.md)
+* [Macroman](uygulamalar/macroman.md)
+* [Ghost Mouse](uygulamalar/ghost-mouse.md)
+
+## Web
+
+* [Giriş](web/giris.md)
+* [Kullanıcı](web/kullanici/README.md)
+  * [Hesap](web/kullanici/hesap.md)
+
+
+--- Dosya: ./README.md ---
+
+---
+description: Sunucu hakkında bilmeniz gereken genel bilgilendirmeler.
+icon: info
+cover: .gitbook/assets/main-screen.png
+coverY: -347.4422073079791
+coverHeight: 294
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Genel Bilgiler
+
+## **Giriş**
+
+<p align="center">Sunucu tamamen <strong>1999 - 2002</strong> yılları arasında <em>Türkiyedeki Ultima Online</em> tarzını yansıtmaktadır. Bu yıllardaki hissiyatı verebilmek adına şu an bilinen alışılmış bir çok sistem bu yıllarda olmadığı ve sadeliği korumak için bilinçli olarak <strong>eklenmemiştir</strong>.</p>
+
+Oyun dizaynı ne kadar eskiye yönelik yapılmış olsa da bazı ufak nüanslar ile modernize edilmeye çalışılmıştır.
+
+## **Genel**
+
+{% hint style="warning" %}
+<mark style="color:$warning;">**"Northern UO: sistemleri, akışları, dinamikleri ve içerikleri önceden bildirmeksizin değiştirme hakkını saklı tutar."**</mark>
+{% endhint %}
+
+{% hint style="info" %}
+Wiki alanındaki tüm bilgilendirmeler sunucu aktif olduğu süre boyunca değişkenlik gösterebilir. Bu değişikliklere [patches.md](giris/patches.md "mention") bölümünden ulaşabilirsiniz. Kullanılan medya ve metin içerikleri _**temsilidir**_, değişkenlik gösterebilir.
+{% endhint %}
+
+<table data-header-hidden data-header-sticky><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Sunucu Türü</td><td><strong>Power Play &#x26; Role Play</strong></td></tr><tr><td>Skillcap</td><td><strong>700.0</strong></td></tr><tr><td>Statcap</td><td><strong>225</strong></td></tr><tr><td>UO Expansion (Sürümü)</td><td><strong>Age Of Shadow</strong> <em>(UO Kurulumu Gerekmez)</em></td></tr><tr><td>Client Sürümü</td><td><strong>5x</strong></td></tr><tr><td>Client Türü</td><td><strong>ClassicUO</strong></td></tr><tr><td>Emülatör Türü &#x26; Sürümü</td><td><strong>SphereServer 0.56b Nightly</strong></td></tr></tbody></table>
+
+## Diğer
+
+<table data-header-hidden data-header-sticky><thead><tr><th width="280"></th><th></th></tr></thead><tbody><tr><td>Skill Dummy</td><td><mark style="color:$danger;"><strong>YOK</strong></mark></td></tr><tr><td>Multi Client </td><td><strong>Bir PC'den Aynı anda </strong><mark style="color:red;"><strong>2</strong></mark><strong> Karakter oyunda olabilir</strong></td></tr><tr><td>Skill PH</td><td><mark style="color:$danger;"><strong>ZOR</strong></mark></td></tr><tr><td>Stat PH</td><td><mark style="color:$danger;"><strong>ZOR</strong></mark></td></tr></tbody></table>
