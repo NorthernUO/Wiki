@@ -6,7 +6,7 @@
 | ------------------ | ------------- |
 | **Adı**            | Clumsy        |
 | **Sözü**           | Uus Jux       |
-| **Reagents**       |               |
+| **Reagents**       | #nightshade   |
 | **Duration**       | {120 240} sn. |
 | **Cast Time**      | 0.5           |
 | **Freeze Time**    |               |
