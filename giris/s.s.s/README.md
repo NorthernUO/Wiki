@@ -29,9 +29,9 @@ Ayrıca Sık Sorulan Sorular bölümünü incelemeden önce sunucuda nelerin <ma
 
 <details open>
 
-<summary>Sunucu türü nedir?</summary>
+<summary>Sunucu oyun türleri nelerdir?</summary>
 
-**Power Play** yarı **Role Play** oyun türü korunmaya çalışılmıştır.
+**Power Play** & **Role Play** oyun türü korunmaya çalışılmıştır.
 
 </details>
 
