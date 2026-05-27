@@ -55,7 +55,7 @@ Stat toplamı en fazla **225** olabilir.
 
 <summary>Skill PH Oranı Nedir ?</summary>
 
-Bu oran beceriye ve beceri seviyenize göre değişse de genel olarak skill ph **zordur**.
+[skill-and-stat.md](skill-and-stat.md "mention")sayfasına bakınız.
 
 </details>
 
@@ -63,7 +63,7 @@ Bu oran beceriye ve beceri seviyenize göre değişse de genel olarak skill ph *
 
 <summary>Stat PH Oranı Nedir ?</summary>
 
-Bu oran stat ve stat seviyenize göre değişse de genel olarak stat ph **zordur**.
+[skill-and-stat.md](skill-and-stat.md "mention")sayfasına bakınız.
 
 </details>
 
