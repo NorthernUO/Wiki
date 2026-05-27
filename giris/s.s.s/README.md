@@ -69,17 +69,17 @@ Stat toplamı en fazla **225** olabilir.
 
 <details>
 
-<summary>Skill Nerede Kasabiliriz?</summary>
+<summary>Skill Nerede Kasabiliriz ?</summary>
 
-[skill-and-stat.md](skill-and-stat.md "mention")sayfasına bakınız.
+[#skill-gelisimi-skill-nasil-kasilir-ve-ph-orani](skill-and-stat.md#skill-gelisimi-skill-nasil-kasilir-ve-ph-orani "mention")sayfasına bakınız.
 
 </details>
 
 <details>
 
-<summary>Stat Nasıl Kasılır?</summary>
+<summary>Stat Nasıl Kasılır ?</summary>
 
-[skill-and-stat.md](skill-and-stat.md "mention")sayfasına bakınız.
+[#stat-gelisimi-stat-nasil-kasilir-ve-ph-orani](skill-and-stat.md#stat-gelisimi-stat-nasil-kasilir-ve-ph-orani "mention")sayfasına bakınız.
 
 </details>
 
@@ -95,7 +95,7 @@ Sunucuda sayfalı ekstra eşya ile mümkün olmaktadır. Bakınız: [runebook.md
 
 <summary>Poisoning becerisi nasıl kasılır?</summary>
 
-
+[#poisoning-ozel](skill-and-stat.md#poisoning-ozel "mention")sayfasına bakınız.
 
 </details>
 
