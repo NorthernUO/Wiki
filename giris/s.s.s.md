@@ -17,6 +17,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # S.S.S
@@ -94,6 +96,14 @@ Kasacağınız stat türüne göre değişir. Örneğin STR veya DEX kasmak isti
 <summary>Sayfalı Runebook var mı ?</summary>
 
 Sunucuda sayfalı ekstra eşya ile mümkün olmaktadır. Bakınız: [runebook.md](../oyun/esyalar/cesitli/runebook.md "mention")
+
+</details>
+
+<details>
+
+<summary>Poisoning becerisi nasıl kasılır?</summary>
+
+Poison büyüsü veya Poisoning becerisi ile silaha zehir sürerek geliştirilebilir.
 
 </details>
 
