@@ -3,7 +3,8 @@
 ## Giriş
 
 * [Genel Bilgiler](README.md)
-* [S.S.S](giris/s.s.s.md)
+* [S.S.S](giris/s.s.s/README.md)
+  * [Skill & Stat](giris/s.s.s/skill-and-stat.md)
 * [Patches](giris/patches.md)
 * [Kurallar](giris/kurallar.md)
 
