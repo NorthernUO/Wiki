@@ -23,13 +23,15 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Genel Bilgiler
 
 ## **Giriş**
 
-<p align="center">Sunucu tamamen <strong>1999 - 2002</strong> yılları arasında <em>Türkiyedeki Ultima Online</em> tarzını yansıtmaktadır. Bu yıllardaki hissiyatı verebilmek adına şu an bilinen alışılmış bir çok sistem bu yıllarda olmadığı ve sadeliği korumak için bilinçli olarak <strong>eklenmemiştir</strong>.</p>
+<p align="center">Sunucu tamamen <strong>2000 - 2003</strong> yılları arasında <em>Türkiyedeki Ultima Online</em> tarzını yansıtmaktadır. Bu yıllardaki hissiyatı verebilmek adına şu an bilinen alışılmış bir çok sistem bu yıllarda olmadığı ve sadeliği korumak için bilinçli olarak <strong>eklenmemiştir</strong>.</p>
 
 Oyun dizaynı ne kadar eskiye yönelik yapılmış olsa da bazı ufak nüanslar ile modernize edilmeye çalışılmıştır.
 
