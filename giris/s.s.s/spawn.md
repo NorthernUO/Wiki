@@ -10,5 +10,5 @@ Field atılabilir,
 
 
 
-Bu özgür oyun dünyasını sürekli birşeyleri kısıtlayarak veya engelleyerek&#x20;
+_Bu özgür oyun dünyasını sürekli bir şeyleri kısıtlayarak veya engelleyerek asıl ruhunu bozmak istememekteyiz._
 
