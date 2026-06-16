@@ -86,7 +86,7 @@ Forum, oyun ve Discord dahil tüm platformlarda:
 
 * Reklam yapmak veya referans link paylaşmak yasaktır,
 * Spam/flood mesaj gönderimi yasaktır,
-* Pornografik içerik paylaşımı yasaktır,
+* Cinsel içerikli paylaşımı yasaktır,
 * Warez veya illegal içerik paylaşımı yasaktır,
 * Başkalarına ait kişisel bilgileri ifşa etmek yasaktır.
 
