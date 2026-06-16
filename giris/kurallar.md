@@ -16,6 +16,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Kurallar
@@ -105,10 +107,13 @@ Hesabınızı kullanan kişi tarafından yapılan ihlallerden siz sorumlusunuz.
 
 ### 7. Hesap ve Varlık Politikası
 
-* Hesap satışı, devri veya ticareti yasaktır,
-* Gerçek para (TL vb.) karşılığı oyun içi alışveriş yasaktır,
-* Tespit edilen hesaplar ve varlıklar silinir,
-* Kapatılan hesaplar geri açılmaz.
+* Sunucu bünyesindeki tüm hesaplar ve dijital varlıklar, oyuncuların kendi sorumluluğundadır,
+* Oyuncuların kendi aralarında, oyun içi veya oyun dışı kanalları kullanarak gerçekleştirebilecekleri gerçek/sanal para (TL, Döviz vb.) karşılığı eşya, üyelik veya hesap takasları Sunucu yönetiminin bilgisi, onayı ve kontrolü dışındadır. Yönetim bu tür şahsi tasarruflara müdahil olmadığı gibi, bunları resmi olarak tanımaz veya desteklemez,
+* Sunucu yönetimi sunucuda yapılan ticaretlerden hiçbir şekilde kâr, komisyon, aracılık veya hizmet bedeli almaz; işlemlere hakemlik, şahitlik ya da güvence sağlamaz,
+* Gerçek para karşılığı yapılan ticaretler esnasında yaşanabilecek dolandırıcılık, hatalı gönderim, eksik teslimat, maddi/manevi zararlar veya yaşanabilecek tüm olumsuz durumlarda Northern yönetimi kesinlikle sorumlu tutulamaz. Tüm hukuki ve cezai sorumluluk, ticareti gerçekleştiren taraflara aittir,
+* Yönetim, bu tür ticaretlerde taraflar arasında çıkan uyuşmazlıklarda (hakemlik yapma, eşya iade etme veya telafi sağlama gibi) hiçbir şekilde müdahil olmayacaktır,
+* Hesap satışı veya devri sonrasında hesap güvenliğine bağlı olarak yaşanabilecek (hesabın geri alınması, şifre uyuşmazlığı vb.) sorunlarda yönetim destek sağlamaz,
+* Bu tür harici işlemler nedeniyle sunucu içi huzuru bozan, diğer oyuncuları rahatsız eden veya yönetimi asılsız iddialarla meşgul eden kullanıcıların hesapları hakkında (veri tabanından silme veya kalıcı uzaklaştırma dahil) her türlü tasarruf yetkisi Northern yönetimine aittir.
 
 ***
 
